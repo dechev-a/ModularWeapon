@@ -1,0 +1,1647 @@
+﻿Log file open, 06/12/18 12:00:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-2130511419) SRandInit(-2130511419).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.290225
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  4.056s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am nmad-004 (192.168.1.103:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.12-10.00.42:600][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.12-10.00.42:600][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.12-10.00.42:683][  0]LogInit: Computer: NMAD-004
+[2018.06.12-10.00.42:683][  0]LogInit: User: nouveau
+[2018.06.12-10.00.42:683][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.06.12-10.00.42:683][  0]LogInit: High frequency timer resolution =2.734344 MHz
+[2018.06.12-10.00.42:683][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.06.12-10.00.42:683][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.12-10.00.42:683][  0]LogMemory: Process Physical Memory: 272.86 MB used, 272.86 MB peak
+[2018.06.12-10.00.42:683][  0]LogMemory: Process Virtual Memory: 273.78 MB used, 273.78 MB peak
+[2018.06.12-10.00.42:684][  0]LogMemory: Physical Memory: 7183.09 MB used,  9160.40 MB free, 16343.49 MB total
+[2018.06.12-10.00.42:684][  0]LogMemory: Virtual Memory: 4788.02 MB used,  9160.40 MB free, 134217728.00 MB total
+[2018.06.12-10.00.43:293][  0]LogInit: Using OS detected language (fr-FR).
+[2018.06.12-10.00.43:293][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.06.12-10.00.43:439][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the language.
+[2018.06.12-10.00.44:310][  0]LogStreaming: Display: Took  1.026s to EndInitTextLocalization.
+[2018.06.12-10.00.44:311][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.12-10.00.44:594][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.06.12-10.00.44:594][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.06.12-10.00.47:547][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.12-10.00.47:611][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 650' (Feature Level 11_0)
+[2018.06.12-10.00.47:611][  0]LogD3D11RHI:       984/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.06.12-10.00.47:614][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.12-10.00.47:614][  0]LogD3D11RHI:       0/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.12-10.00.47:614][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.12-10.00.47:634][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.12-10.00.47:634][  0]LogD3D11RHI:     GPU DeviceId: 0xfc6 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.12-10.00.47:634][  0]LogWindows: EnumDisplayDevices:
+[2018.06.12-10.00.47:634][  0]LogWindows:    0. 'NVIDIA GeForce GTX 650' (P:1 D:1)
+[2018.06.12-10.00.47:634][  0]LogWindows:    1. 'NVIDIA GeForce GTX 650' (P:0 D:1)
+[2018.06.12-10.00.47:634][  0]LogWindows:    2. 'NVIDIA GeForce GTX 650' (P:0 D:0)
+[2018.06.12-10.00.47:634][  0]LogWindows:    3. 'NVIDIA GeForce GTX 650' (P:0 D:0)
+[2018.06.12-10.00.47:635][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.06.12-10.00.47:635][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 650
+[2018.06.12-10.00.47:635][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.06.12-10.00.47:635][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.06.12-10.00.47:635][  0]LogRHI: Texture pool is 689 MB (70% of 984 MB)
+[2018.06.12-10.00.47:682][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.12-10.00.47:682][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.12-10.00.47:682][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.12-10.00.47:774][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.06.12-10.00.47:863][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Intermediate/Shaders/WorkingDirectory/772/).
+[2018.06.12-10.00.47:876][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/nouveau/AppData/Local/Temp/UnrealShaderWorkingDir/BF9D29E3476963B31BC77592904BB985/'.
+[2018.06.12-10.00.49:847][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.12-10.00.49:870][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.12-10.00.49:892][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.12-10.00.49:914][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.12-10.00.49:992][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.12-10.00.50:023][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.12-10.00.50:045][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.12-10.00.50:065][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.12-10.00.50:076][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.12-10.00.50:093][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.12-10.00.50:111][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.12-10.00.50:129][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.12-10.00.50:147][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.06.12-10.00.50:165][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.12-10.00.50:183][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.12-10.00.50:219][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.12-10.00.50:219][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.12-10.00.50:253][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.12-10.00.50:255][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.12-10.00.50:363][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.12-10.00.50:387][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.12-10.00.50:405][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.12-10.00.50:423][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.12-10.00.50:440][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.12-10.00.50:475][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.12-10.00.50:475][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.12-10.00.51:373][  0]LogXGEController: Cleaning working directory: C:/Users/nouveau/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.06.12-10.00.51:373][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.06.12-10.00.51:373][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.06.12-10.00.51:373][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.12-10.00.54:558][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.12-10.00.55:266][  0]LogDerivedDataCache: Loaded boot cache 0.71s 74MB C:/Users/nouveau/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.12-10.00.55:266][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/nouveau/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.06.12-10.00.55:266][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.12-10.00.55:266][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.12-10.00.55:266][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.12-10.00.55:266][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.12-10.00.55:321][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.12-10.00.55:334][  0]LogDerivedDataCache: Using Local data cache path C:/Users/nouveau/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.12-10.00.55:334][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.06.12-10.00.55:334][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.06.12-10.00.55:363][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.12-10.00.55:387][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.12-10.00.55:453][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.12-10.00.55:453][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.12-10.01.03:395][  0]LogAssetRegistry: FAssetRegistry took 0.0314 seconds to start up
+[2018.06.12-10.01.07:188][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.12-10.01.08:409][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.12-10.01.08:451][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.12-10.01.08:461][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.12-10.01.08:471][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.12-10.01.08:471][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.12-10.01.08:471][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.12-10.01.08:682][  0]LogNetVersion: MyProject , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2475486345)
+[2018.06.12-10.01.13:321][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.115227 seconds
+[2018.06.12-10.01.13:336][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.06.12-10.01.13:336][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.06.12-10.01.13:336][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.12-10.01.39:252][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.12-10.01.39:294][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.12-10.01.40:040][  0]SourceControl: Source control is disabled
+[2018.06.12-10.01.40:040][  0]SourceControl: Source control is disabled
+[2018.06.12-10.01.40:070][  0]SourceControl: Source control is disabled
+[2018.06.12-10.01.40:098][  0]SourceControl: Source control is disabled
+[2018.06.12-10.01.40:958][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.12-10.01.41:287][  0]LogOcInput: OculusInput pre-init called
+[2018.06.12-10.01.41:840][  0]LogEngine: Initializing Engine...
+[2018.06.12-10.01.41:913][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.12-10.01.41:927][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.12-10.01.41:928][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.12-10.01.43:093][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.12-10.01.43:235][  0]LogInit: XAudio2 using 'E2251 (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.12-10.01.43:264][  0]LogInit: FAudioDevice initialized.
+[2018.06.12-10.01.43:711][  0]LogDerivedDataCache: Saved boot cache 0.42s 74MB C:/Users/nouveau/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.12-10.01.43:731][  0]LogInit: Texture streaming: Enabled
+[2018.06.12-10.01.43:826][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.12-10.01.43:909][  0]LogInit: Transaction tracking system initialized
+[2018.06.12-10.01.44:117][  0]BlueprintLog: New page: Editor Load
+[2018.06.12-10.01.45:675][  0]LocalizationService: Localization service is disabled
+[2018.06.12-10.01.46:308][  0]LogConsoleResponse: Display: 
+[2018.06.12-10.01.48:257][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.12-10.01.48:299][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nouveau/Documents/Unreal Projects/MyProject/Content/' took 0.08s
+[2018.06.12-10.01.48:299][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.12-10.01.48:299][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.12-10.01.48:299][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.12-10.01.48:299][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.12-10.01.49:888][  0]SourceControl: Source control is disabled
+[2018.06.12-10.01.49:906][  0]Cmd: MAP LOAD FILE="../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.12-10.01.49:951][  0]LightingResults: New page: Lighting Build
+[2018.06.12-10.01.49:987][  0]MapCheck: New page: Map Check
+[2018.06.12-10.01.49:987][  0]LightingResults: New page: Lighting Build
+[2018.06.12-10.01.50:488][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029c5786da80, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.12-10.01.50:574][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029c5786da80, Size=64
+[2018.06.12-10.01.50:574][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029c5786dbc0, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.12-10.01.50:703][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029c584e1120, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.12-10.01.51:343][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029c58489a80, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.12-10.01.51:379][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029c58489a80, Size=296
+[2018.06.12-10.01.51:379][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029c58489a80, Size=296, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_4:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.12-10.01.51:391][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029c584882c0, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.06.12-10.01.53:161][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [32.779343ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.06.12-10.01.53:391][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.06.12-10.01.53:527][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.12-10.01.53:553][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029c5786dbc0, Size=64
+[2018.06.12-10.01.53:553][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029c58489a80, Size=296
+[2018.06.12-10.01.53:577][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.12-10.01.53:688][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 103,693ms to complete.
+[2018.06.12-10.01.53:689][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 3.783
+[2018.06.12-10.01.54:133][  0]LogCollectionManager: Loaded 0 collections in 0.003111 seconds
+[2018.06.12-10.01.54:206][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Collections/' took 0.01s
+[2018.06.12-10.01.54:206][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nouveau/Documents/Unreal Projects/MyProject/Content/Developers/nouveau/Collections/' took 0.01s
+[2018.06.12-10.01.54:206][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nouveau/Documents/Unreal Projects/MyProject/Content/Collections/' took 0.01s
+[2018.06.12-10.01.54:206][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.06.12-10.01.54:224][  0]LogContentBrowser: Native class hierarchy populated in 0.0155 seconds. Added 2452 classes and 558 folders.
+[2018.06.12-10.01.54:248][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.06.12-10.01.55:294][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.06.12-10.01.55:307][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.06.12-10.01.55:534][  0]LogSlate: Took 0.029050 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.12-10.01.55:578][  0]LogSlate: Took 0.040841 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.12-10.01.55:609][  0]LogSlate: Took 0.022510 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.12-10.01.55:973][  0]LogRenderer: Reallocating scene render targets to support 1056x556 Format 10 NumSamples 1 (Frame:1).
+[2018.06.12-10.01.56:371][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.06.12-10.01.56:371][  0]LogLoad: (Engine Initialization) Total time: 85.00 seconds
+[2018.06.12-10.01.56:371][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.12-10.01.56:790][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.12-10.01.56:902][  0]LogSlate: Took 0.018798 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.12-10.01.59:775][  9]LogAssetRegistry: Asset discovery search completed in 56.4029 seconds
+[2018.06.12-10.01.59:782][  9]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.06.12-10.01.59:782][  9]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000114 seconds (updated 0 objects)
+[2018.06.12-12.36.39:950][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.36.40:338][ 86]LogSkeletalMesh: Skeletal Mesh found in DDC [10.737859ms] /Game/PolygonScifi/Meshes/Weapons/SK_Wep_Pistol_01.SK_Wep_Pistol_01
+[2018.06.12-12.36.40:351][ 86]LogSlate: Took 0.000361 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.12-12.36.40:388][ 86]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.06.12-12.36.41:023][ 86]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.06.12-12.36.41:028][ 86]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.06.12-12.36.41:153][ 86]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_0:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.06.12-12.36.41:607][ 86]LogSlate: Took 0.018143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.12-12.36.41:855][ 86]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.06.12-12.36.41:881][ 86]LogRenderer: Reallocating scene render targets to support 1056x856 Format 10 NumSamples 1 (Frame:1).
+[2018.06.12-12.36.48:949][185]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.12-12.36.48:949][185]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.12-12.36.52:985][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.37.39:725][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.37.39:856][517]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.06.12-12.37.39:899][517]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.Actor_1.DebugSkelMeshComponent_1) - call TermArticulated first.
+[2018.06.12-12.37.43:587][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.37.50:711][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.38.31:139][964]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.015
+[2018.06.12-12.38.31:141][964]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Pistol_01_Skeleton] ([1] browsable assets)...
+[2018.06.12-12.38.31:141][964]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Pistol_01_Skeleton]
+[2018.06.12-12.38.31:163][964]LogSavePackage: Save=8.76ms
+[2018.06.12-12.38.31:163][964]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Pistol_01_Skeleton_Auto1169E36FB4297DF9F9A387A83D5C61573.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Pistol_01_Skeleton_Auto1.uasset'
+[2018.06.12-12.38.31:165][964]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Pistol_01_Skeleton_Auto1.uasset
+[2018.06.12-12.38.31:165][964]LogFileHelpers: Auto-saving content packages took 0.026
+[2018.06.12-12.38.38:383][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.39.44:762][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.40.17:265][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.40.56:787][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.41.47:642][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.41.58:674][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.42.28:358][566]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.42.38:419][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.42.49:276][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.43.36:090][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.43.46:064][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.44.09:961][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.48.31:906][786]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.023
+[2018.06.12-12.48.31:909][786]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Pistol_01] ([1] browsable assets)...
+[2018.06.12-12.48.31:992][786]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/PolygonScifi/Meshes/Weapons/SK_Wep_Pistol_01.SK_Wep_Pistol_01]
+[2018.06.12-12.48.31:992][786]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Pistol_01]
+[2018.06.12-12.48.32:040][786]LogSavePackage: Save=25.79ms
+[2018.06.12-12.48.32:040][786]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Pistol_01_Auto2800529FE473CE225835856A69E103D09.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Pistol_01_Auto2.uasset'
+[2018.06.12-12.48.32:042][786]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Pistol_01_Auto2.uasset
+[2018.06.12-12.48.32:042][786]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Pistol_01_Skeleton] ([1] browsable assets)...
+[2018.06.12-12.48.32:042][786]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Pistol_01_Skeleton]
+[2018.06.12-12.48.32:062][786]LogSavePackage: Save=6.39ms
+[2018.06.12-12.48.32:062][786]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Pistol_01_Skeleton_Auto2DC7949344F8A42DC88008BB27318B76F.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Pistol_01_Skeleton_Auto2.uasset'
+[2018.06.12-12.48.32:063][786]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Pistol_01_Skeleton_Auto2.uasset
+[2018.06.12-12.48.32:063][786]LogFileHelpers: Auto-saving content packages took 0.156
+[2018.06.12-12.50.18:170][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.50.22:002][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.50.51:958][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.51.00:856][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.51.21:993][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.51.43:778][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.51.57:235][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.52.15:284][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.52.45:690][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.52.58:977][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.54.14:712][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.54.28:103][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.55.47:353][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.55.47:490][658]LogSavePackage: Save=7.26ms
+[2018.06.12-12.55.47:490][658]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Pistol_01_Skeleton0C1DF5C949FDE487BDC9ADA735F20D05.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Pistol_01_Skeleton.uasset'
+[2018.06.12-12.55.47:498][658]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Pistol_01_Skeleton.uasset
+[2018.06.12-12.55.48:836][704]LogSlate: Window 'SK_Wep_Pistol_01_Skeleton' being destroyed
+[2018.06.12-12.55.48:860][704]LogSlate: Window 'SK_Wep_Pistol_01_Skeleton' being destroyed
+[2018.06.12-12.55.57:006][985]LogSkeletalMesh: Skeletal Mesh found in DDC [12.787345ms] /Game/PolygonScifi/Meshes/Weapons/SK_Wep_MachinePistol_Gen2_01.SK_Wep_MachinePistol_Gen2_01
+[2018.06.12-12.55.57:095][985]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_2.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.06.12-12.55.57:155][985]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.Actor_2.DebugSkelMeshComponent_2) - call TermArticulated first.
+[2018.06.12-12.55.58:962][ 27]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.06.12-12.55.59:003][ 27]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.Actor_3.DebugSkelMeshComponent_3) - call TermArticulated first.
+[2018.06.12-12.56.01:954][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.56.02:064][ 86]LogSlate: Window 'SK_Wep_MachinePistol_Gen2_01_Skeleton' being destroyed
+[2018.06.12-12.56.02:094][ 86]LogSlate: Window 'SK_Wep_MachinePistol_Gen2_01_Skeleton' being destroyed
+[2018.06.12-12.56.08:031][191]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_4.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.06.12-12.56.08:085][191]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.Actor_4.DebugSkelMeshComponent_4) - call TermArticulated first.
+[2018.06.12-12.56.18:125][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.56.18:208][416]LogSlate: Window 'SK_Wep_Pistol_01_Skeleton' being destroyed
+[2018.06.12-12.56.18:239][416]LogSlate: Window 'SK_Wep_Pistol_01_Skeleton' being destroyed
+[2018.06.12-12.56.20:546][445]LogSkeletalMesh: Skeletal Mesh found in DDC [22.803276ms] /Game/PolygonScifi/Meshes/Weapons/SK_Wep_Revolver_01.SK_Wep_Revolver_01
+[2018.06.12-12.56.20:565][445]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_5.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2018.06.12-12.56.20:631][445]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.Actor_5.DebugSkelMeshComponent_5) - call TermArticulated first.
+[2018.06.12-12.56.31:462][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.56.41:701][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.57.06:376][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.57.41:702][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.58.35:694][733]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.018
+[2018.06.12-12.58.35:697][733]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Pistol_01] ([1] browsable assets)...
+[2018.06.12-12.58.35:697][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Pistol_01]
+[2018.06.12-12.58.35:723][733]LogSavePackage: Save=10.06ms
+[2018.06.12-12.58.35:723][733]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Pistol_01_Auto323B2BB4D4AEB2087DF330C8C18B478F6.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Pistol_01_Auto3.uasset'
+[2018.06.12-12.58.35:725][733]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Pistol_01_Auto3.uasset
+[2018.06.12-12.58.35:726][733]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Revolver_01_Skeleton] ([1] browsable assets)...
+[2018.06.12-12.58.35:726][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Revolver_01_Skeleton]
+[2018.06.12-12.58.35:747][733]LogSavePackage: Save=6.80ms
+[2018.06.12-12.58.35:747][733]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Revolver_01_Skeleton_Auto1C9F79824346F3532CA150B9B8E32189.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Revolver_01_Skeleton_Auto3.uasset'
+[2018.06.12-12.58.35:760][733]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Revolver_01_Skeleton_Auto3.uasset
+[2018.06.12-12.58.35:761][733]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Revolver_01] ([1] browsable assets)...
+[2018.06.12-12.58.35:802][733]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/PolygonScifi/Meshes/Weapons/SK_Wep_Revolver_01.SK_Wep_Revolver_01]
+[2018.06.12-12.58.35:802][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Revolver_01]
+[2018.06.12-12.58.35:842][733]LogSavePackage: Save=25.60ms
+[2018.06.12-12.58.35:843][733]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Revolver_01_Auto36308172947E003B808F7B7ABE17E6501.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Revolver_01_Auto3.uasset'
+[2018.06.12-12.58.35:844][733]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Revolver_01_Auto3.uasset
+[2018.06.12-12.58.35:844][733]LogFileHelpers: Auto-saving content packages took 0.149
+[2018.06.12-12.58.56:323][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.59.01:289][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-12.59.34:007][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.00.02:312][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.00.32:619][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.00.43:903][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.01.08:959][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.02.14:736][463]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.03.10:370][688]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.03.13:140][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.03.15:388][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.03.27:135][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.03.46:211][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.03.52:843][619]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.04.01:356][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.04.59:821][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.06.34:576][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.06.47:013][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.06.51:393][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.07.20:806][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.07.28:672][228]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.07.53:842][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.08.35:969][738]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.12-13.08.36:046][738]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.015
+[2018.06.12-13.08.36:047][738]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Revolver_01_Skeleton] ([1] browsable assets)...
+[2018.06.12-13.08.36:048][738]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Revolver_01_Skeleton]
+[2018.06.12-13.08.36:067][738]LogSavePackage: Save=7.23ms
+[2018.06.12-13.08.36:067][738]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Revolver_01_Skeleton_Auto29A4C1304B39744FACA63BA2DBB0C93D.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Revolver_01_Skeleton_Auto4.uasset'
+[2018.06.12-13.08.36:068][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Revolver_01_Skeleton_Auto4.uasset
+[2018.06.12-13.08.36:069][738]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Revolver_01] ([1] browsable assets)...
+[2018.06.12-13.08.36:069][738]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Revolver_01]
+[2018.06.12-13.08.36:095][738]LogSavePackage: Save=11.39ms
+[2018.06.12-13.08.36:095][738]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Revolver_01_Auto416AE3F134852B8FF95E480A2785C9FB0.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Revolver_01_Auto4.uasset'
+[2018.06.12-13.08.36:096][738]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Revolver_01_Auto4.uasset
+[2018.06.12-13.08.36:097][738]LogFileHelpers: Auto-saving content packages took 0.050
+[2018.06.12-13.10.18:649][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.12-13.10.18:714][ 62]LogSavePackage: Save=7.79ms
+[2018.06.12-13.10.18:714][ 62]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Revolver_01_Skeleton8375B0CE4DEA91F40C7DA68670CEE780.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Revolver_01_Skeleton.uasset'
+[2018.06.12-13.10.18:724][ 62]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Revolver_01_Skeleton.uasset
+[2018.06.12-13.10.20:068][ 94]LogSlate: Window 'SK_Wep_Revolver_01_Skeleton' being destroyed
+[2018.06.12-13.10.20:106][ 94]LogSlate: Window 'SK_Wep_Revolver_01_Skeleton' being destroyed
+[2018.06.12-13.10.27:456][218]LogSkeletalMesh: Skeletal Mesh found in DDC [18.415752ms] /Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Base_01.SK_Wep_Rifle_Base_01
+[2018.06.12-13.10.27:626][218]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_6.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2018.06.12-13.10.27:691][218]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.Actor_6.DebugSkelMeshComponent_6) - call TermArticulated first.
+[2018.06.12-13.10.33:792][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.10.46:695][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.10.53:926][812]Cmd: TRANSACTION UNDO
+[2018.06.12-13.10.53:926][812]LogEditorTransaction: Undo Translate Socket
+[2018.06.12-13.10.54:109][812]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_6.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2018.06.12-13.11.20:804][424]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.11.29:262][624]LogSkeletalMesh: Skeletal Mesh found in DDC [15.818419ms] /Game/PolygonScifi/Meshes/Weapons/SK_Wep_Attachment_Bipod_01.SK_Wep_Attachment_Bipod_01
+[2018.06.12-13.11.44:927][993]Cmd: TRANSACTION UNDO
+[2018.06.12-13.11.44:927][993]LogEditorTransaction: Undo Delete selected sockets/meshes/bones from skeleton tree
+[2018.06.12-13.11.45:135][993]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_6.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2018.06.12-13.11.47:624][ 58]Cmd: TRANSACTION UNDO
+[2018.06.12-13.11.47:624][ 58]LogEditorTransaction: Undo Attach Assets to Skeleton
+[2018.06.12-13.11.47:838][ 58]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_6.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2018.06.12-13.11.59:341][330]LogSlate: Window 'SK_Wep_Rifle_Base_01_Skeleton' being destroyed
+[2018.06.12-13.11.59:374][330]LogSlate: Window 'SK_Wep_Rifle_Base_01_Skeleton' being destroyed
+[2018.06.12-13.12.00:958][366]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_7.DebugSkelMeshComponent_7) Already registered. Aborting.
+[2018.06.12-13.12.01:016][366]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.Actor_7.DebugSkelMeshComponent_7) - call TermArticulated first.
+[2018.06.12-13.12.04:568][436]LogSlate: Window 'SK_Wep_Rifle_Base_01_Skeleton' being destroyed
+[2018.06.12-13.12.04:602][436]LogSlate: Window 'SK_Wep_Rifle_Base_01_Skeleton' being destroyed
+[2018.06.12-13.12.09:658][547]LogSlate: Window 'SK_Wep_Rifle_Base_01_Skeleton_Socket' being destroyed
+[2018.06.12-13.12.09:696][547]LogSlate: Window 'SK_Wep_Rifle_Base_01_Skeleton_Socket' being destroyed
+[2018.06.12-13.12.16:312][610]LogSlate: Window 'Save Content' being destroyed
+[2018.06.12-13.12.18:513][649]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.Actor_9.DebugSkelMeshComponent_9) Already registered. Aborting.
+[2018.06.12-13.12.18:570][649]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.Actor_9.DebugSkelMeshComponent_9) - call TermArticulated first.
+[2018.06.12-13.12.23:429][743]LogSlate: Window 'SK_Wep_Rifle_Base_01_Skeleton' being destroyed
+[2018.06.12-13.12.23:466][743]LogSlate: Window 'SK_Wep_Rifle_Base_01_Skeleton' being destroyed
+[2018.06.12-13.12.33:693][959]LogSlate: Window 'SK_Wep_Rifle_Base_01_Skeleton_Socket' being destroyed
+[2018.06.12-13.12.33:732][959]LogSlate: Window 'SK_Wep_Rifle_Base_01_Skeleton_Socket' being destroyed
+[2018.06.12-13.12.34:998][973]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.Actor_11.DebugSkelMeshComponent_11) Already registered. Aborting.
+[2018.06.12-13.12.35:057][973]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.Actor_11.DebugSkelMeshComponent_11) - call TermArticulated first.
+[2018.06.12-13.12.47:684][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.12.52:195][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.14.35:109][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.16.52:400][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.17.07:950][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.17.32:707][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.17.49:517][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.18.06:177][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.18.21:337][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.18.49:244][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.19.06:417][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.19.31:822][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.20.13:423][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.20.32:005][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.20.57:856][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.20.57:931][204]LogSlate: Window 'SK_Wep_Rifle_Base_01_Skeleton*' being destroyed
+[2018.06.12-13.20.57:961][204]LogSlate: Window 'SK_Wep_Rifle_Base_01_Skeleton*' being destroyed
+[2018.06.12-13.21.09:777][644]LogSkeletalMesh: Skeletal Mesh found in DDC [19.010775ms] /Game/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_01.SK_Wep_Sniper_01
+[2018.06.12-13.21.09:865][644]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.Actor_12.DebugSkelMeshComponent_12) Already registered. Aborting.
+[2018.06.12-13.21.09:927][644]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.Actor_12.DebugSkelMeshComponent_12) - call TermArticulated first.
+[2018.06.12-13.21.14:423][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.21.29:656][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.21.56:985][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.22.19:204][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.22.41:080][519]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.23.05:875][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.23.06:008][348]LogSlate: Window 'SK_Wep_Sniper_01_Skeleton*' being destroyed
+[2018.06.12-13.23.06:030][348]LogSlate: Window 'SK_Wep_Sniper_01_Skeleton*' being destroyed
+[2018.06.12-13.23.12:494][546]LogSkeletalMesh: Skeletal Mesh found in DDC [13.826351ms] /Game/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_Plasma_02.SK_Wep_Sniper_Plasma_02
+[2018.06.12-13.23.12:521][546]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_13.DebugSkelMeshComponent_13) Already registered. Aborting.
+[2018.06.12-13.23.12:577][546]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.Actor_13.DebugSkelMeshComponent_13) - call TermArticulated first.
+[2018.06.12-13.23.18:397][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.23.56:683][808]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.12-13.23.56:744][808]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.016
+[2018.06.12-13.23.56:746][808]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Revolver_01] ([1] browsable assets)...
+[2018.06.12-13.23.56:746][808]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Revolver_01]
+[2018.06.12-13.23.56:777][808]LogSavePackage: Save=11.91ms
+[2018.06.12-13.23.56:777][808]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Revolver_01_Auto53098F58A48C143D28C7853B4797BB7F7.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Revolver_01_Auto5.uasset'
+[2018.06.12-13.23.56:778][808]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Revolver_01_Auto5.uasset
+[2018.06.12-13.23.56:779][808]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Base_01_Skeleton] ([1] browsable assets)...
+[2018.06.12-13.23.56:779][808]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Base_01_Skeleton]
+[2018.06.12-13.23.56:798][808]LogSavePackage: Save=7.88ms
+[2018.06.12-13.23.56:798][808]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Rifle_Base_01_Skeleton_Au3569C9DD4BA0D668402A60BAA94D5F73.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Base_01_Skeleton_Auto5.uasset'
+[2018.06.12-13.23.56:800][808]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Base_01_Skeleton_Auto5.uasset
+[2018.06.12-13.23.56:801][808]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Base_01] ([1] browsable assets)...
+[2018.06.12-13.23.56:827][808]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Base_01.SK_Wep_Rifle_Base_01]
+[2018.06.12-13.23.56:827][808]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Base_01]
+[2018.06.12-13.23.56:865][808]LogSavePackage: Save=22.87ms
+[2018.06.12-13.23.56:865][808]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Rifle_Base_01_Auto55EBAB941485A11055335219AF91D6BC2.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Base_01_Auto5.uasset'
+[2018.06.12-13.23.56:867][808]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Base_01_Auto5.uasset
+[2018.06.12-13.23.56:868][808]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_01_Skeleton] ([1] browsable assets)...
+[2018.06.12-13.23.56:868][808]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_01_Skeleton]
+[2018.06.12-13.23.56:890][808]LogSavePackage: Save=6.96ms
+[2018.06.12-13.23.56:890][808]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Sniper_01_Skeleton_Auto592A2A18E4633F2C4ABBCC2B1454E0529.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_01_Skeleton_Auto5.uasset'
+[2018.06.12-13.23.56:892][808]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_01_Skeleton_Auto5.uasset
+[2018.06.12-13.23.56:893][808]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_01] ([1] browsable assets)...
+[2018.06.12-13.23.56:919][808]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_01.SK_Wep_Sniper_01]
+[2018.06.12-13.23.56:919][808]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_01]
+[2018.06.12-13.23.56:960][808]LogSavePackage: Save=24.24ms
+[2018.06.12-13.23.56:960][808]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Sniper_01_Auto51B16BA1C4AEC6017596707813927D0D1.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_01_Auto5.uasset'
+[2018.06.12-13.23.56:961][808]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_01_Auto5.uasset
+[2018.06.12-13.23.56:961][808]LogFileHelpers: Auto-saving content packages took 0.217
+[2018.06.12-13.25.15:036][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.28.16:767][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.32.44:993][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.33.00:147][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.33.57:080][492]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.12-13.33.57:138][492]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.014
+[2018.06.12-13.33.57:141][492]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_Plasma_02_Skeleton] ([1] browsable assets)...
+[2018.06.12-13.33.57:141][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_Plasma_02_Skeleton]
+[2018.06.12-13.33.57:166][492]LogSavePackage: Save=7.46ms
+[2018.06.12-13.33.57:166][492]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Sniper_Plasma_02_Skeleton30ECFF014955C391833D87A38E776039.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_Plasma_02_Skeleton_Auto6.uasset'
+[2018.06.12-13.33.57:168][492]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_Plasma_02_Skeleton_Auto6.uasset
+[2018.06.12-13.33.57:169][492]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_Plasma_02] ([1] browsable assets)...
+[2018.06.12-13.33.57:196][492]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_Plasma_02.SK_Wep_Sniper_Plasma_02]
+[2018.06.12-13.33.57:196][492]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_Plasma_02]
+[2018.06.12-13.33.57:236][492]LogSavePackage: Save=22.60ms
+[2018.06.12-13.33.57:236][492]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Sniper_Plasma_02_Auto6221FA8304B5E17802F5D08936F24CA3D.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_Plasma_02_Auto6.uasset'
+[2018.06.12-13.33.57:238][492]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_Plasma_02_Auto6.uasset
+[2018.06.12-13.33.57:238][492]LogFileHelpers: Auto-saving content packages took 0.098
+[2018.06.12-13.35.46:108][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.36.05:790][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.36.11:234][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.39.24:785][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.39.34:476][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.39.54:167][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.40.00:452][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.40.24:144][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.40.51:399][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.41.43:644][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.41.56:370][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.43.13:662][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.43.13:758][161]LogSlate: Window 'SK_Wep_Sniper_Plasma_02_Skeleton*' being destroyed
+[2018.06.12-13.43.13:779][161]LogSlate: Window 'SK_Wep_Sniper_Plasma_02_Skeleton*' being destroyed
+[2018.06.12-13.43.26:849][489]LogSkeletalMesh: Skeletal Mesh found in DDC [18.209852ms] /Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Laser_01.SK_Wep_Rifle_Laser_01
+[2018.06.12-13.43.26:864][489]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.Actor_14.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2018.06.12-13.43.26:923][489]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.Actor_14.DebugSkelMeshComponent_14) - call TermArticulated first.
+[2018.06.12-13.43.57:741][602]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.017
+[2018.06.12-13.43.57:743][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_Plasma_02_Skeleton] ([1] browsable assets)...
+[2018.06.12-13.43.57:743][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_Plasma_02_Skeleton]
+[2018.06.12-13.43.57:764][602]LogSavePackage: Save=7.61ms
+[2018.06.12-13.43.57:764][602]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Sniper_Plasma_02_SkeletonDE30E7C64EF323C9917425B8337ADAB1.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_Plasma_02_Skeleton_Auto7.uasset'
+[2018.06.12-13.43.57:766][602]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_Plasma_02_Skeleton_Auto7.uasset
+[2018.06.12-13.43.57:767][602]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_Plasma_02] ([1] browsable assets)...
+[2018.06.12-13.43.57:767][602]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_Plasma_02]
+[2018.06.12-13.43.57:794][602]LogSavePackage: Save=10.14ms
+[2018.06.12-13.43.57:794][602]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Sniper_Plasma_02_Auto75CB41C254DF5E133EB2E338BBE480D03.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_Plasma_02_Auto7.uasset'
+[2018.06.12-13.43.57:796][602]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_Plasma_02_Auto7.uasset
+[2018.06.12-13.43.57:796][602]LogFileHelpers: Auto-saving content packages took 0.054
+[2018.06.12-13.45.29:847][991]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.46.45:094][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.47.10:332][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.49.19:828][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.49.37:723][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.50.14:262][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.51.00:414][748]Cmd: TRANSACTION UNDO
+[2018.06.12-13.51.00:414][748]LogEditorTransaction: Undo Translate Socket
+[2018.06.12-13.51.00:599][748]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.Actor_14.DebugSkelMeshComponent_14) Already registered. Aborting.
+[2018.06.12-13.53.58:082][745]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.12-13.53.58:134][745]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.013
+[2018.06.12-13.53.58:137][745]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Laser_01_Skeleton] ([1] browsable assets)...
+[2018.06.12-13.53.58:137][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Laser_01_Skeleton]
+[2018.06.12-13.53.58:157][745]LogSavePackage: Save=6.76ms
+[2018.06.12-13.53.58:157][745]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Rifle_Laser_01_Skeleton_AF0575CB843B131416612829CD3F597D1.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Laser_01_Skeleton_Auto8.uasset'
+[2018.06.12-13.53.58:159][745]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Laser_01_Skeleton_Auto8.uasset
+[2018.06.12-13.53.58:160][745]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Laser_01] ([1] browsable assets)...
+[2018.06.12-13.53.58:214][745]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Laser_01.SK_Wep_Rifle_Laser_01]
+[2018.06.12-13.53.58:214][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Laser_01]
+[2018.06.12-13.53.58:253][745]LogSavePackage: Save=22.15ms
+[2018.06.12-13.53.58:253][745]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Rifle_Laser_01_Auto83CA5746246ED2C34EDAF9C9CA59BC048.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Laser_01_Auto8.uasset'
+[2018.06.12-13.53.58:255][745]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Laser_01_Auto8.uasset
+[2018.06.12-13.53.58:255][745]LogFileHelpers: Auto-saving content packages took 0.120
+[2018.06.12-13.56.01:970][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-13.56.34:466][902]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.00.06:333][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.00.20:953][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.00.33:439][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.00.59:554][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.03.58:571][556]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.018
+[2018.06.12-14.03.58:573][556]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Laser_01_Skeleton] ([1] browsable assets)...
+[2018.06.12-14.03.58:574][556]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Laser_01_Skeleton]
+[2018.06.12-14.03.58:598][556]LogSavePackage: Save=7.25ms
+[2018.06.12-14.03.58:598][556]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Rifle_Laser_01_Skeleton_A2CB58EB34A821A18C1D5019D08D13659.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Laser_01_Skeleton_Auto9.uasset'
+[2018.06.12-14.03.58:600][556]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Laser_01_Skeleton_Auto9.uasset
+[2018.06.12-14.03.58:600][556]LogFileHelpers: Auto-saving content packages took 0.027
+[2018.06.12-14.04.00:565][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.04.17:597][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.05.10:290][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.05.10:370][697]LogSlate: Window 'SK_Wep_Rifle_Laser_01_Skeleton*' being destroyed
+[2018.06.12-14.05.10:390][697]LogSlate: Window 'SK_Wep_Rifle_Laser_01_Skeleton*' being destroyed
+[2018.06.12-14.05.38:934][554]LogStaticMesh: Building static mesh SM_Wep_Ammo_Battery_01...
+[2018.06.12-14.05.39:015][554]LogStaticMesh: Built static mesh [0.08s] /Game/PolygonScifi/Meshes/Weapons/Accessories/SM_Wep_Ammo_Battery_01.SM_Wep_Ammo_Battery_01
+[2018.06.12-14.05.39:659][554]LogRenderer: Reallocating scene render targets to support 1252x892 Format 10 NumSamples 1 (Frame:1).
+[2018.06.12-14.05.48:679][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.05.48:801][693]LogSlate: Window 'SM_Wep_Ammo_Battery_01' being destroyed
+[2018.06.12-14.05.48:824][693]LogSlate: Window 'SM_Wep_Ammo_Battery_01' being destroyed
+[2018.06.12-14.06.05:565][946]LogSkeletalMesh: Building Skeletal Mesh SK_Wep_Rifle_Plasma_02...
+[2018.06.12-14.06.05:568][946]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_02.SK_Wep_Rifle_Plasma_02
+[2018.06.12-14.06.05:578][946]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.Actor_15.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2018.06.12-14.06.05:637][946]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.Actor_15.DebugSkelMeshComponent_15) - call TermArticulated first.
+[2018.06.12-14.06.14:377][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.06.40:910][743]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.07.02:123][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.07.12:607][462]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.07.54:651][373]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.08.09:407][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.08.46:048][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.10.27:522][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.10.40:409][144]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.11.11:899][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.11.31:378][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.13.16:132][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.14.38:030][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.15.10:859][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.16.50:884][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.19.55:260][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.20.28:131][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.24.38:543][ 67]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.015
+[2018.06.12-14.24.38:545][ 67]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Laser_01_Skeleton] ([1] browsable assets)...
+[2018.06.12-14.24.38:545][ 67]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Laser_01_Skeleton]
+[2018.06.12-14.24.38:569][ 67]LogSavePackage: Save=6.80ms
+[2018.06.12-14.24.38:569][ 67]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Rifle_Laser_01_Skeleton_AEFE6E8164154C4A747250684B9C4DEF2.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Laser_01_Skeleton_Auto0.uasset'
+[2018.06.12-14.24.38:571][ 67]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Laser_01_Skeleton_Auto0.uasset
+[2018.06.12-14.24.38:572][ 67]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_02_Skeleton] ([1] browsable assets)...
+[2018.06.12-14.24.38:572][ 67]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_02_Skeleton]
+[2018.06.12-14.24.38:598][ 67]LogSavePackage: Save=8.60ms
+[2018.06.12-14.24.38:598][ 67]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Rifle_Plasma_02_Skeleton_F0B4BB1A48DD92D6B1D630A6531B96BD.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_02_Skeleton_Auto0.uasset'
+[2018.06.12-14.24.38:600][ 67]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_02_Skeleton_Auto0.uasset
+[2018.06.12-14.24.38:601][ 67]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_02] ([1] browsable assets)...
+[2018.06.12-14.24.38:667][ 67]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_02.SK_Wep_Rifle_Plasma_02]
+[2018.06.12-14.24.38:667][ 67]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_02]
+[2018.06.12-14.24.38:707][ 67]LogSavePackage: Save=22.31ms
+[2018.06.12-14.24.38:707][ 67]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Rifle_Plasma_02_Auto0E9600C1C4EBFF18BE9DCCF8D77FBC9E2.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_02_Auto0.uasset'
+[2018.06.12-14.24.38:709][ 67]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_02_Auto0.uasset
+[2018.06.12-14.24.38:709][ 67]LogFileHelpers: Auto-saving content packages took 0.165
+[2018.06.12-14.24.57:176][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.25.14:317][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.25.37:103][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.25.37:195][217]LogSlate: Window 'SK_Wep_Rifle_Plasma_02_Skeleton*' being destroyed
+[2018.06.12-14.25.37:214][217]LogSlate: Window 'SK_Wep_Rifle_Plasma_02_Skeleton*' being destroyed
+[2018.06.12-14.25.44:083][297]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.Actor_16.DebugSkelMeshComponent_16) Already registered. Aborting.
+[2018.06.12-14.25.44:140][297]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.Actor_16.DebugSkelMeshComponent_16) - call TermArticulated first.
+[2018.06.12-14.25.53:076][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.25.53:163][535]LogSlate: Window 'SK_Wep_MachinePistol_Gen2_01_Skeleton' being destroyed
+[2018.06.12-14.25.53:186][535]LogSlate: Window 'SK_Wep_MachinePistol_Gen2_01_Skeleton' being destroyed
+[2018.06.12-14.26.02:330][620]LogSkeletalMesh: Skeletal Mesh found in DDC [12.977884ms] /Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_01.SK_Wep_Rifle_Plasma_01
+[2018.06.12-14.26.02:340][620]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.Actor_17.DebugSkelMeshComponent_17) Already registered. Aborting.
+[2018.06.12-14.26.02:398][620]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.Actor_17.DebugSkelMeshComponent_17) - call TermArticulated first.
+[2018.06.12-14.28.30:538][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.28.49:277][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.29.24:565][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.30.16:061][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.30.37:335][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.32.53:650][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.33.07:720][286]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.33.21:259][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.34.31:995][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.34.48:256][971]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.018
+[2018.06.12-14.34.48:258][971]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_01_Skeleton] ([1] browsable assets)...
+[2018.06.12-14.34.48:258][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_01_Skeleton]
+[2018.06.12-14.34.48:282][971]LogSavePackage: Save=6.34ms
+[2018.06.12-14.34.48:282][971]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Rifle_Plasma_01_Skeleton_A3C43F7F4461B54B9B2730B52C5E3EDF.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_01_Skeleton_Auto1.uasset'
+[2018.06.12-14.34.48:284][971]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_01_Skeleton_Auto1.uasset
+[2018.06.12-14.34.48:285][971]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_01] ([1] browsable assets)...
+[2018.06.12-14.34.48:324][971]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_01.SK_Wep_Rifle_Plasma_01]
+[2018.06.12-14.34.48:324][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_01]
+[2018.06.12-14.34.48:364][971]LogSavePackage: Save=20.98ms
+[2018.06.12-14.34.48:364][971]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Rifle_Plasma_01_Auto1FE3041A0452AC6679207649BDBEE6BAB.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_01_Auto1.uasset'
+[2018.06.12-14.34.48:365][971]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_01_Auto1.uasset
+[2018.06.12-14.34.48:365][971]LogFileHelpers: Auto-saving content packages took 0.108
+[2018.06.12-14.34.52:823][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.35.27:245][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.36.40:244][934]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.37.02:815][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.37.23:877][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.37.37:560][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.38.06:266][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.38.57:471][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.38.57:567][739]LogSlate: Window 'SK_Wep_Rifle_Plasma_01_Skeleton*' being destroyed
+[2018.06.12-14.38.57:594][739]LogSlate: Window 'SK_Wep_Rifle_Plasma_01_Skeleton*' being destroyed
+[2018.06.12-14.39.03:191][847]LogSkeletalMesh: Skeletal Mesh found in DDC [14.286791ms] /Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_03.SK_Wep_Rifle_Plasma_03
+[2018.06.12-14.39.03:212][847]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.Actor_18.DebugSkelMeshComponent_18) Already registered. Aborting.
+[2018.06.12-14.39.03:269][847]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_23:PersistentLevel.Actor_18.DebugSkelMeshComponent_18) - call TermArticulated first.
+[2018.06.12-14.39.59:095][447]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.40.16:593][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.40.41:426][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.41.20:699][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.41.25:213][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.41.33:996][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.43.30:066][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.43.48:763][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.44.50:543][460]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.12-14.44.50:603][460]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.015
+[2018.06.12-14.44.50:605][460]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_01_Skeleton] ([1] browsable assets)...
+[2018.06.12-14.44.50:605][460]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_01_Skeleton]
+[2018.06.12-14.44.50:628][460]LogSavePackage: Save=7.41ms
+[2018.06.12-14.44.50:628][460]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Rifle_Plasma_01_Skeleton_5E74D05640B6FCF0D35048AD0BB8CEE2.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_01_Skeleton_Auto2.uasset'
+[2018.06.12-14.44.50:629][460]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_01_Skeleton_Auto2.uasset
+[2018.06.12-14.44.50:630][460]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_01] ([1] browsable assets)...
+[2018.06.12-14.44.50:630][460]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_01]
+[2018.06.12-14.44.50:660][460]LogSavePackage: Save=10.80ms
+[2018.06.12-14.44.50:660][460]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Rifle_Plasma_01_Auto2BD294BD24E68567D44469ABE01D20423.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_01_Auto2.uasset'
+[2018.06.12-14.44.50:662][460]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_01_Auto2.uasset
+[2018.06.12-14.44.50:663][460]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_03_Skeleton] ([1] browsable assets)...
+[2018.06.12-14.44.50:663][460]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_03_Skeleton]
+[2018.06.12-14.44.50:688][460]LogSavePackage: Save=6.93ms
+[2018.06.12-14.44.50:688][460]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Rifle_Plasma_03_Skeleton_06EE19464226A76D81377EACC40E3358.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_03_Skeleton_Auto2.uasset'
+[2018.06.12-14.44.50:690][460]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_03_Skeleton_Auto2.uasset
+[2018.06.12-14.44.50:691][460]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_03] ([1] browsable assets)...
+[2018.06.12-14.44.50:717][460]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_03.SK_Wep_Rifle_Plasma_03]
+[2018.06.12-14.44.50:718][460]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_03]
+[2018.06.12-14.44.50:757][460]LogSavePackage: Save=21.57ms
+[2018.06.12-14.44.50:758][460]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Rifle_Plasma_03_Auto27342D4744026909C16052BA2E4B9BF2E.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_03_Auto2.uasset'
+[2018.06.12-14.44.50:759][460]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_03_Auto2.uasset
+[2018.06.12-14.44.50:759][460]LogFileHelpers: Auto-saving content packages took 0.155
+[2018.06.12-14.45.02:755][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.45.19:142][270]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.45.21:450][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.46.34:941][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.46.50:906][735]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.47.20:421][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.47.25:335][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.48.05:510][789]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.48.28:441][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.49.16:472][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.51.12:538][875]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.51.12:611][877]LogSlate: Window 'SK_Wep_Rifle_Plasma_03_Skeleton*' being destroyed
+[2018.06.12-14.51.12:638][877]LogSlate: Window 'SK_Wep_Rifle_Plasma_03_Skeleton*' being destroyed
+[2018.06.12-14.51.15:454][962]LogSkeletalMesh: Skeletal Mesh found in DDC [16.654085ms] /Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Small_01.SK_Wep_Rifle_Small_01
+[2018.06.12-14.51.15:464][962]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.Actor_19.DebugSkelMeshComponent_19) Already registered. Aborting.
+[2018.06.12-14.51.15:524][962]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_24:PersistentLevel.Actor_19.DebugSkelMeshComponent_19) - call TermArticulated first.
+[2018.06.12-14.51.29:941][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.51.30:016][327]LogSlate: Window 'SK_Wep_Rifle_Small_01_Skeleton' being destroyed
+[2018.06.12-14.51.30:047][327]LogSlate: Window 'SK_Wep_Rifle_Small_01_Skeleton' being destroyed
+[2018.06.12-14.51.34:113][442]LogSkeletalMesh: Building Skeletal Mesh SK_Wep_Shotgun_Plasma_01...
+[2018.06.12-14.51.34:116][442]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PolygonScifi/Meshes/Weapons/SK_Wep_Shotgun_Plasma_01.SK_Wep_Shotgun_Plasma_01
+[2018.06.12-14.51.34:146][442]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.Actor_20.DebugSkelMeshComponent_20) Already registered. Aborting.
+[2018.06.12-14.51.34:204][442]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_25:PersistentLevel.Actor_20.DebugSkelMeshComponent_20) - call TermArticulated first.
+[2018.06.12-14.51.47:199][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.53.13:094][116]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.53.34:289][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.54.56:936][902]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.12-14.54.56:993][902]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.016
+[2018.06.12-14.54.56:995][902]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_03_Skeleton] ([1] browsable assets)...
+[2018.06.12-14.54.56:995][902]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_03_Skeleton]
+[2018.06.12-14.54.57:018][902]LogSavePackage: Save=8.29ms
+[2018.06.12-14.54.57:018][902]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Rifle_Plasma_03_Skeleton_587DA2C34C617A1561BDC0AF8C3C9EDC.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_03_Skeleton_Auto3.uasset'
+[2018.06.12-14.54.57:021][902]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_03_Skeleton_Auto3.uasset
+[2018.06.12-14.54.57:021][902]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_03] ([1] browsable assets)...
+[2018.06.12-14.54.57:021][902]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_03]
+[2018.06.12-14.54.57:052][902]LogSavePackage: Save=11.86ms
+[2018.06.12-14.54.57:052][902]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Rifle_Plasma_03_Auto3C27807124CE2D5DC92AE23966A06B9ED.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_03_Auto3.uasset'
+[2018.06.12-14.54.57:053][902]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_03_Auto3.uasset
+[2018.06.12-14.54.57:055][902]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Shotgun_Plasma_01_Skeleton] ([1] browsable assets)...
+[2018.06.12-14.54.57:055][902]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Shotgun_Plasma_01_Skeleton]
+[2018.06.12-14.54.57:076][902]LogSavePackage: Save=6.24ms
+[2018.06.12-14.54.57:076][902]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Shotgun_Plasma_01_Skeleto90F2EBB44CC6873342E31CA870320096.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Shotgun_Plasma_01_Skeleton_Auto3.uasset'
+[2018.06.12-14.54.57:077][902]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Shotgun_Plasma_01_Skeleton_Auto3.uasset
+[2018.06.12-14.54.57:077][902]LogFileHelpers: Auto-saving content packages took 0.083
+[2018.06.12-14.55.05:323][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.55.36:209][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.55.48:083][275]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.56.13:103][950]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.56.26:338][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.56.35:125][555]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.56.48:434][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.58.27:170][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-14.58.56:420][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-15.00.07:624][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-15.00.07:732][862]LogSlate: Window 'SK_Wep_Shotgun_Plasma_01_Skeleton*' being destroyed
+[2018.06.12-15.00.07:751][862]LogSlate: Window 'SK_Wep_Shotgun_Plasma_01_Skeleton*' being destroyed
+[2018.06.12-15.00.10:788][933]LogSkeletalMesh: Skeletal Mesh found in DDC [18.081120ms] /Game/PolygonScifi/Meshes/Weapons/SK_Wep_SMG_01.SK_Wep_SMG_01
+[2018.06.12-15.00.10:826][933]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.Actor_21.DebugSkelMeshComponent_21) Already registered. Aborting.
+[2018.06.12-15.00.10:879][933]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_26:PersistentLevel.Actor_21.DebugSkelMeshComponent_21) - call TermArticulated first.
+[2018.06.12-15.00.15:755][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-15.03.32:833][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-15.03.39:500][785]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-15.03.56:541][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-15.04.57:169][334]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.12-15.04.57:229][334]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.013
+[2018.06.12-15.04.57:231][334]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Shotgun_Plasma_01_Skeleton] ([1] browsable assets)...
+[2018.06.12-15.04.57:231][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Shotgun_Plasma_01_Skeleton]
+[2018.06.12-15.04.57:254][334]LogSavePackage: Save=6.99ms
+[2018.06.12-15.04.57:254][334]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Shotgun_Plasma_01_SkeletoFE8817434EA7FA67F10BB185117101D7.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Shotgun_Plasma_01_Skeleton_Auto4.uasset'
+[2018.06.12-15.04.57:255][334]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Shotgun_Plasma_01_Skeleton_Auto4.uasset
+[2018.06.12-15.04.57:256][334]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Shotgun_Plasma_01] ([1] browsable assets)...
+[2018.06.12-15.04.57:295][334]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/PolygonScifi/Meshes/Weapons/SK_Wep_Shotgun_Plasma_01.SK_Wep_Shotgun_Plasma_01]
+[2018.06.12-15.04.57:295][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Shotgun_Plasma_01]
+[2018.06.12-15.04.57:335][334]LogSavePackage: Save=21.32ms
+[2018.06.12-15.04.57:335][334]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Shotgun_Plasma_01_Auto4EE8BD8DC4AD84021795EE8870B1AF743.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Shotgun_Plasma_01_Auto4.uasset'
+[2018.06.12-15.04.57:336][334]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_Shotgun_Plasma_01_Auto4.uasset
+[2018.06.12-15.04.57:337][334]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_SMG_01_Skeleton] ([1] browsable assets)...
+[2018.06.12-15.04.57:337][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_SMG_01_Skeleton]
+[2018.06.12-15.04.57:358][334]LogSavePackage: Save=6.49ms
+[2018.06.12-15.04.57:358][334]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_SMG_01_Skeleton_Auto440B033F748094E32AACF188B2C23B20C.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_SMG_01_Skeleton_Auto4.uasset'
+[2018.06.12-15.04.57:360][334]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_SMG_01_Skeleton_Auto4.uasset
+[2018.06.12-15.04.57:360][334]LogFileHelpers: Auto-saving content packages took 0.129
+[2018.06.12-15.05.45:101][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-15.07.18:531][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-15.07.44:307][104]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-15.08.34:514][616]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-15.08.40:916][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-15.08.50:750][104]Cmd: TRANSACTION UNDO
+[2018.06.12-15.08.50:750][104]LogEditorTransaction: Undo Translate Bone
+[2018.06.12-15.08.50:930][104]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.Actor_21.DebugSkelMeshComponent_21) Already registered. Aborting.
+[2018.06.12-15.09.21:542][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-15.09.49:183][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-15.10.42:400][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-15.11.10:493][236]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-15.11.10:556][238]LogSlate: Window 'SK_Wep_SMG_01_Skeleton*' being destroyed
+[2018.06.12-15.11.10:578][238]LogSlate: Window 'SK_Wep_SMG_01_Skeleton*' being destroyed
+[2018.06.12-15.11.24:375][597]LogSkeletalMesh: Skeletal Mesh found in DDC [17.717230ms] /Game/PolygonScifi/Meshes/Weapons/SK_Wep_MachinePistol_Gen1_01.SK_Wep_MachinePistol_Gen1_01
+[2018.06.12-15.11.24:450][597]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.Actor_22.DebugSkelMeshComponent_22) Already registered. Aborting.
+[2018.06.12-15.11.24:510][597]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_27:PersistentLevel.Actor_22.DebugSkelMeshComponent_22) - call TermArticulated first.
+[2018.06.12-15.11.33:706][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-15.11.40:089][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-15.11.49:474][124]Cmd: TRANSACTION UNDO
+[2018.06.12-15.11.49:475][124]LogEditorTransaction: Undo Translate Bone
+[2018.06.12-15.11.49:647][124]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.Actor_22.DebugSkelMeshComponent_22) Already registered. Aborting.
+[2018.06.12-15.11.53:297][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-15.12.02:269][384]Cmd: TRANSACTION UNDO
+[2018.06.12-15.12.02:269][384]LogEditorTransaction: Undo Translate Bone
+[2018.06.12-15.12.02:448][384]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.Actor_22.DebugSkelMeshComponent_22) Already registered. Aborting.
+[2018.06.12-15.12.04:122][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-15.12.07:621][485]Cmd: TRANSACTION UNDO
+[2018.06.12-15.12.07:621][485]LogEditorTransaction: Undo Translate Bone
+[2018.06.12-15.12.07:803][485]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_27:PersistentLevel.Actor_22.DebugSkelMeshComponent_22) Already registered. Aborting.
+[2018.06.12-15.12.10:257][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-15.12.10:391][539]LogSlate: Window 'SK_Wep_MachinePistol_Gen1_01_Skeleton' being destroyed
+[2018.06.12-15.12.10:430][539]LogSlate: Window 'SK_Wep_MachinePistol_Gen1_01_Skeleton' being destroyed
+[2018.06.12-15.14.00:156][294]LogStaticMesh: Building static mesh SM_Veh_Armored_Truck_Cannon_01...
+[2018.06.12-15.14.00:195][294]LogStaticMesh: Built static mesh [0.04s] /Game/PolygonScifi/Meshes/Vehicles/SM_Veh_Armored_Truck_Cannon_01.SM_Veh_Armored_Truck_Cannon_01
+[2018.06.12-15.14.03:289][364]LogSlate: Window 'SM_Veh_Armored_Truck_Cannon_01' being destroyed
+[2018.06.12-15.14.03:297][364]LogSlate: Window 'SM_Veh_Armored_Truck_Cannon_01' being destroyed
+[2018.06.12-15.14.20:006][427]LogMaterial: Missing cached shader map for material Mat_PolygonSciFi_FX_Rain, compiling. 
+[2018.06.12-15.14.20:133][427]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.06.12-15.14.20:133][427]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.06.12-15.14.20:133][427]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.12-15.14.20:223][427]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2018.06.12-15.14.25:178][445]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.12-15.14.41:211][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-15.14.41:269][985]LogSlate: Window 'FX_Rain_Splash' being destroyed
+[2018.06.12-15.14.41:277][985]LogSlate: Window 'FX_Rain_Splash' being destroyed
+[2018.06.12-15.14.41:278][985]LogCascade: Quitting Cascade. FXSystem=0x0000029C237AA520
+[2018.06.12-15.14.44:948][193]LogMaterial: Missing cached shader map for material Mat_PolygonSciFi_FX_Fire, compiling. 
+[2018.06.12-15.14.44:987][193]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.06.12-15.14.44:987][193]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.06.12-15.14.44:987][193]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.12-15.14.47:930][193]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.12-15.14.59:206][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-15.14.59:321][522]LogSlate: Window 'FX_Fire' being destroyed
+[2018.06.12-15.14.59:342][522]LogSlate: Window 'FX_Fire' being destroyed
+[2018.06.12-15.14.59:342][522]LogCascade: Quitting Cascade. FXSystem=0x0000029C014F16C0
+[2018.06.12-15.15.01:034][611]LogStaticMesh: Building static mesh SM_SphereGeo...
+[2018.06.12-15.15.01:053][611]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonScifi/Meshes/Misc/SM_SphereGeo.SM_SphereGeo
+[2018.06.12-15.15.01:060][611]LogMaterial: Missing cached shader map for material Mat_PolygonSciFi_FX_Default, compiling. 
+[2018.06.12-15.15.01:144][611]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.06.12-15.15.01:144][611]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.06.12-15.15.01:144][611]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.06.12-15.15.04:838][611]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.06.12-15.15.05:775][612]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.06.12-15.15.06:492][613]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.06.12-15.15.08:658][614]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.12-15.15.10:822][616]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.12-15.15.20:239][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-15.15.20:353][911]LogSlate: Window 'FX_Exhaust' being destroyed
+[2018.06.12-15.15.20:357][911]LogSlate: Window 'FX_Exhaust' being destroyed
+[2018.06.12-15.15.20:358][911]LogCascade: Quitting Cascade. FXSystem=0x0000029CA3D6A980
+[2018.06.12-15.15.26:676][255]LogSkeletalMesh: Skeletal Mesh found in DDC [0.697791ms] /Game/PolygonScifi/SK_Wep_SMG_2.SK_Wep_SMG_2
+[2018.06.12-15.15.29:072][255]LogSlate: Window 'Delete Assets' being destroyed
+[2018.06.12-15.15.38:510][739]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029ca4494900, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Feline_Warrior/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.12-15.15.38:522][739]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029ca4494900, Size=72
+[2018.06.12-15.15.38:522][739]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029cadb08f40, Size=72, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_1:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.12-15.15.38:533][739]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029c1207f330, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Feline_Warrior/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.06.12-15.15.38:538][739]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Feline_Warrior/Animations/A_Cat_ActionIdle_Anim.A_Cat_ActionIdle_Anim
+[2018.06.12-15.15.38:551][739]LogAnimationCompression: Recompressing (AnimSequence /Game/Feline_Warrior/Animations/A_Cat_ActionIdle_Anim.A_Cat_ActionIdle_Anim) using current/default (AnimCompress_BitwiseCompressOnly_22) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.12-15.15.38:566][739]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Feline_Warrior/Animations/A_Cat_Epic_ThirdPersonJump_Start.A_Cat_Epic_ThirdPersonJump_Start
+[2018.06.12-15.15.38:566][739]LogAnimationCompression: Recompressing (AnimSequence /Game/Feline_Warrior/Animations/A_Cat_Epic_ThirdPersonJump_Start.A_Cat_Epic_ThirdPersonJump_Start) using current/default (AnimCompress_RemoveLinearKeys_9) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.12-15.15.38:584][739]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Feline_Warrior/Animations/A_Cat_Epic_ThirdPersonJump_Loop.A_Cat_Epic_ThirdPersonJump_Loop
+[2018.06.12-15.15.38:584][739]LogAnimationCompression: Recompressing (AnimSequence /Game/Feline_Warrior/Animations/A_Cat_Epic_ThirdPersonJump_Loop.A_Cat_Epic_ThirdPersonJump_Loop) using current/default (AnimCompress_RemoveLinearKeys_8) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.12-15.15.38:607][739]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Feline_Warrior/Animations/A_Cat_Epic_ThirdPersonWalk_1.A_Cat_Epic_ThirdPersonWalk_1
+[2018.06.12-15.15.38:607][739]LogAnimationCompression: Recompressing (AnimSequence /Game/Feline_Warrior/Animations/A_Cat_Epic_ThirdPersonWalk_1.A_Cat_Epic_ThirdPersonWalk_1) using current/default (AnimCompress_BitwiseCompressOnly_3) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.12-15.15.38:608][739]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Feline_Warrior/Animations/A_Cat_Run_Steady_Sword.A_Cat_Run_Steady_Sword
+[2018.06.12-15.15.38:608][739]LogAnimationCompression: Recompressing (AnimSequence /Game/Feline_Warrior/Animations/A_Cat_Run_Steady_Sword.A_Cat_Run_Steady_Sword) using current/default (AnimCompress_BitwiseCompressOnly_23) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.12-15.15.38:623][739]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Feline_Warrior/Animations/A_Cat_Epic_ThirdPersonJump_End.A_Cat_Epic_ThirdPersonJump_End
+[2018.06.12-15.15.38:623][739]LogAnimationCompression: Recompressing (AnimSequence /Game/Feline_Warrior/Animations/A_Cat_Epic_ThirdPersonJump_End.A_Cat_Epic_ThirdPersonJump_End) using current/default (AnimCompress_BitwiseCompressOnly_41) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.06.12-15.15.39:959][739]LogTexture: Display: Building textures: T_Cat_M2 (DXT1, 4096X4096)
+[2018.06.12-15.15.42:490][739]LogTexture: Display: Building textures: T_Cat_M3 (DXT1, 4096X4096)
+[2018.06.12-15.15.42:490][739]LogTexture: Display: Building textures: T_Cat_M4 (DXT1, 4096X4096)
+[2018.06.12-15.15.44:458][739]LogTexture: Display: Building textures: T_Cat_Fur_Cards_M1 (DXT1, 1024X1024)
+[2018.06.12-15.15.44:458][739]LogTexture: Display: Building textures: T_Cat_Fur_Cards_N_ydown (BC5, 1024X1024)
+[2018.06.12-15.15.44:458][739]LogTexture: Display: Building textures: T_Cat_ME_nonmetal_rare (DXT1, 4096X4096)
+[2018.06.12-15.15.45:672][739]LogTexture: Display: Building textures: T_Arm_A (DXT1, 4096X4096)
+[2018.06.12-15.15.45:672][739]LogTexture: Display: Building textures: T_Cat_R (DXT1, 4096X4096)
+[2018.06.12-15.15.55:958][739]LogTexture: Display: Building textures: T_Cat_Fur_Fuzz_A (DXT1, 4096X4096)
+[2018.06.12-15.15.55:958][739]LogTexture: Display: Building textures: T_Cat_N_ydown (BC5, 4096X4096)
+[2018.06.12-15.15.56:838][739]LogTexture: Display: Building textures: T_Cat_D (AutoDXT, 4096X4096)
+[2018.06.12-15.15.56:838][739]LogTexture: Display: Building textures: T_Cat_AO (DXT1, 4096X4096)
+[2018.06.12-15.16.06:507][739]LogTexture: Display: Building textures: T_Cat_M1 (DXT1, 4096X4096)
+[2018.06.12-15.16.06:507][739]LogTexture: Display: Building textures: T_Cat_Eyeshadow_A (DXT1, 128X128)
+[2018.06.12-15.16.06:507][739]LogTexture: Display: Building textures: T_Cat_Fur_Cards_D (DXT1, 1024X1024)
+[2018.06.12-15.16.06:507][739]LogTexture: Display: Building textures: T_Cat_Fur_Cards_A (AutoDXT, 1024X1024)
+[2018.06.12-15.16.06:507][739]LogTexture: Display: Building textures: T_Cat_M5_01_Basic (DXT1, 4096X4096)
+[2018.06.12-15.16.06:507][739]LogTexture: Display: Building textures: T_Cat_ME (DXT1, 4096X4096)
+[2018.06.12-15.16.12:517][739]LogTexture: Display: Building textures: T_Cat_M5_03_Triangles (DXT1, 4096X4096)
+[2018.06.12-15.16.12:517][739]LogMaterial: Missing cached shader map for material M_Cat_Fur_Arm_Master, compiling. 
+[2018.06.12-15.16.12:689][739]LogMaterial: Missing cached shader map for material M_Cat_Whiskers, compiling. 
+[2018.06.12-15.16.12:729][739]LogShaderCompilers: Display: Shaders left to compile 218
+[2018.06.12-15.16.12:729][739]LogShaderCompilers: Display: Shaders left to compile 208
+[2018.06.12-15.16.12:729][739]LogShaderCompilers: Display: Shaders left to compile 198
+[2018.06.12-15.16.12:729][739]LogMaterial: Missing cached shader map for material M_Cat_Fur_Fuzz_Master, compiling. 
+[2018.06.12-15.16.12:807][739]LogSkeletalMesh: Building Skeletal Mesh SK_Cat_Warrior...
+[2018.06.12-15.16.12:919][739]LogSkeletalMesh: Built Skeletal Mesh [0.11s] /Game/Feline_Warrior/Meshes/SK_Cat_Warrior.SK_Cat_Warrior
+[2018.06.12-15.16.12:972][739]LogMaterial: Missing cached shader map for material M_Cat_Fur_BaseSurface_Master, compiling. 
+[2018.06.12-15.16.13:034][739]LogMaterial: Missing cached shader map for material M_Cat_Outfit_Master, compiling. 
+[2018.06.12-15.16.13:292][739]LogMaterial: Missing cached shader map for material M_Cat_Fur_Cards, compiling. 
+[2018.06.12-15.16.13:375][739]LogMaterial: Missing cached shader map for material M_Cat_Eyeshadow, compiling. 
+[2018.06.12-15.16.15:002][739]LogTexture: Display: Building textures: T_Sword_M2 (DXT1, 2048X2048)
+[2018.06.12-15.16.15:002][739]LogTexture: Display: Building textures: T_Sword_ME (DXT1, 2048X2048)
+[2018.06.12-15.16.15:002][739]LogTexture: Display: Building textures: T_Sword_D (DXT1, 2048X2048)
+[2018.06.12-15.16.15:002][739]LogTexture: Display: Building textures: T_Sword_AO (DXT1, 2048X2048)
+[2018.06.12-15.16.15:002][739]LogTexture: Display: Building textures: T_Sword_R (DXT1, 2048X2048)
+[2018.06.12-15.16.17:072][739]LogTexture: Display: Building textures: T_Sword_M1 (DXT1, 2048X2048)
+[2018.06.12-15.16.17:477][739]LogTexture: Display: Building textures: T_Sword_N_ydown (BC5, 2048X2048)
+[2018.06.12-15.16.18:323][739]LogMaterial: Missing cached shader map for material M_Cat_Sword_Master, compiling. 
+[2018.06.12-15.16.18:379][739]LogSkeletalMesh: Building Skeletal Mesh SK_Cat_Sword...
+[2018.06.12-15.16.18:385][739]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Feline_Warrior/Meshes/SK_Cat_Sword.SK_Cat_Sword
+[2018.06.12-15.16.18:469][739]LogMaterial: Missing cached shader map for material M_Eyehighlight, compiling. 
+[2018.06.12-15.16.18:506][739]LogMaterial: Missing cached shader map for material M_Cat_Eyeball_Master, compiling. 
+[2018.06.12-15.16.18:547][739]LogSkeletalMesh: Building Skeletal Mesh SK_Cat_Eyeball...
+[2018.06.12-15.16.18:549][739]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Feline_Warrior/Meshes/SK_Cat_Eyeball.SK_Cat_Eyeball
+[2018.06.12-15.16.18:553][739]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.Actor_23.DebugSkelMeshComponent_23) Already registered. Aborting.
+[2018.06.12-15.16.19:634][739]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0020 seconds. Added 116 classes and 0 folders.
+[2018.06.12-15.16.20:450][739]LogShaderCompilers: Display: Shaders left to compile 1441
+[2018.06.12-15.16.20:450][739]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029c6d96a068, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.06.12-15.16.20:451][739]LogUObjectGlobals: Created PersistentFrame Addr=0x0000029c6d96a060, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.06.12-15.16.21:459][739]LogShaderCompilers: Display: Shaders left to compile 1431
+[2018.06.12-15.16.21:459][739]LogShaderCompilers: Display: Shaders left to compile 1421
+[2018.06.12-15.16.21:459][739]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_33:PersistentLevel.Actor_23.DebugSkelMeshComponent_23) - call TermArticulated first.
+[2018.06.12-15.16.24:064][739]LogShaderCompilers: Display: Shaders left to compile 1411
+[2018.06.12-15.16.25:013][739]LogShaderCompilers: Display: Shaders left to compile 1401
+[2018.06.12-15.16.25:449][739]LogShaderCompilers: Display: Shaders left to compile 1391
+[2018.06.12-15.16.25:449][739]LogSlate: Took 0.017561 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.06.12-15.16.27:160][743]LogShaderCompilers: Display: Shaders left to compile 1381
+[2018.06.12-15.16.28:401][744]LogShaderCompilers: Display: Shaders left to compile 1371
+[2018.06.12-15.16.30:224][746]LogShaderCompilers: Display: Shaders left to compile 1361
+[2018.06.12-15.16.31:065][747]LogShaderCompilers: Display: Shaders left to compile 1351
+[2018.06.12-15.16.31:338][749]LogShaderCompilers: Display: Shaders left to compile 1341
+[2018.06.12-15.16.33:115][750]LogShaderCompilers: Display: Shaders left to compile 1331
+[2018.06.12-15.16.35:326][751]LogShaderCompilers: Display: Shaders left to compile 1321
+[2018.06.12-15.16.35:354][752]LogShaderCompilers: Display: Shaders left to compile 1311
+[2018.06.12-15.16.35:938][753]LogShaderCompilers: Display: Shaders left to compile 1301
+[2018.06.12-15.16.45:575][754]LogShaderCompilers: Display: Shaders left to compile 1291
+[2018.06.12-15.16.45:575][754]LogShaderCompilers: Display: Shaders left to compile 1281
+[2018.06.12-15.16.45:575][754]LogShaderCompilers: Display: Shaders left to compile 1271
+[2018.06.12-15.16.45:575][754]LogShaderCompilers: Display: Shaders left to compile 1261
+[2018.06.12-15.16.45:575][754]LogShaderCompilers: Display: Shaders left to compile 1251
+[2018.06.12-15.16.45:575][754]LogShaderCompilers: Display: Shaders left to compile 1241
+[2018.06.12-15.16.45:578][754]LogSlate: Window 'ThirdPerson_AnimBP' being destroyed
+[2018.06.12-15.16.45:588][754]LogSlate: Window 'ThirdPerson_AnimBP' being destroyed
+[2018.06.12-15.16.46:267][759]LogShaderCompilers: Display: Shaders left to compile 1231
+[2018.06.12-15.16.46:652][760]LogShaderCompilers: Display: Shaders left to compile 1221
+[2018.06.12-15.16.49:474][761]LogShaderCompilers: Display: Shaders left to compile 1211
+[2018.06.12-15.16.49:474][761]LogShaderCompilers: Display: Shaders left to compile 1201
+[2018.06.12-15.16.50:346][762]LogShaderCompilers: Display: Shaders left to compile 1191
+[2018.06.12-15.16.52:674][763]LogShaderCompilers: Display: Shaders left to compile 1181
+[2018.06.12-15.16.52:869][763]LogShaderCompilers: Display: Shaders left to compile 1171
+[2018.06.12-15.16.53:642][763]LogShaderCompilers: Display: Shaders left to compile 1161
+[2018.06.12-15.16.56:018][765]LogShaderCompilers: Display: Shaders left to compile 1151
+[2018.06.12-15.16.56:327][767]LogShaderCompilers: Display: Shaders left to compile 1141
+[2018.06.12-15.16.56:660][769]LogShaderCompilers: Display: Shaders left to compile 1131
+[2018.06.12-15.16.58:519][770]LogShaderCompilers: Display: Shaders left to compile 1121
+[2018.06.12-15.16.59:055][771]LogShaderCompilers: Display: Shaders left to compile 1111
+[2018.06.12-15.16.59:165][774]LogShaderCompilers: Display: Shaders left to compile 1101
+[2018.06.12-15.17.02:549][776]LogShaderCompilers: Display: Shaders left to compile 1091
+[2018.06.12-15.17.03:109][778]LogShaderCompilers: Display: Shaders left to compile 1081
+[2018.06.12-15.17.03:357][779]LogShaderCompilers: Display: Shaders left to compile 1071
+[2018.06.12-15.17.05:460][780]LogShaderCompilers: Display: Shaders left to compile 1061
+[2018.06.12-15.17.06:636][788]LogShaderCompilers: Display: Shaders left to compile 1051
+[2018.06.12-15.17.07:698][790]LogShaderCompilers: Display: Shaders left to compile 1041
+[2018.06.12-15.17.09:061][795]LogShaderCompilers: Display: Shaders left to compile 1031
+[2018.06.12-15.17.09:091][796]LogShaderCompilers: Display: Shaders left to compile 1021
+[2018.06.12-15.17.10:925][797]LogShaderCompilers: Display: Shaders left to compile 1011
+[2018.06.12-15.17.12:418][797]LogShaderCompilers: Display: Shaders left to compile 1001
+[2018.06.12-15.17.13:239][797]LogShaderCompilers: Display: Shaders left to compile 991
+[2018.06.12-15.17.13:486][797]LogShaderCompilers: Display: Shaders left to compile 981
+[2018.06.12-15.17.15:907][798]LogShaderCompilers: Display: Shaders left to compile 971
+[2018.06.12-15.17.17:136][800]LogShaderCompilers: Display: Shaders left to compile 961
+[2018.06.12-15.17.17:753][802]LogShaderCompilers: Display: Shaders left to compile 951
+[2018.06.12-15.17.18:354][803]LogShaderCompilers: Display: Shaders left to compile 941
+[2018.06.12-15.17.20:486][806]LogShaderCompilers: Display: Shaders left to compile 931
+[2018.06.12-15.17.21:843][808]LogShaderCompilers: Display: Shaders left to compile 921
+[2018.06.12-15.17.22:040][809]LogShaderCompilers: Display: Shaders left to compile 911
+[2018.06.12-15.17.23:989][810]LogShaderCompilers: Display: Shaders left to compile 901
+[2018.06.12-15.17.25:623][811]LogShaderCompilers: Display: Shaders left to compile 891
+[2018.06.12-15.17.26:075][811]LogShaderCompilers: Display: Shaders left to compile 881
+[2018.06.12-15.17.28:625][812]LogShaderCompilers: Display: Shaders left to compile 871
+[2018.06.12-15.17.29:887][813]LogShaderCompilers: Display: Shaders left to compile 861
+[2018.06.12-15.17.31:171][817]LogShaderCompilers: Display: Shaders left to compile 851
+[2018.06.12-15.17.34:324][818]LogShaderCompilers: Display: Shaders left to compile 841
+[2018.06.12-15.17.34:324][818]LogShaderCompilers: Display: Shaders left to compile 831
+[2018.06.12-15.17.34:478][821]LogShaderCompilers: Display: Shaders left to compile 821
+[2018.06.12-15.17.37:839][824]LogShaderCompilers: Display: Shaders left to compile 811
+[2018.06.12-15.17.37:857][825]LogShaderCompilers: Display: Shaders left to compile 801
+[2018.06.12-15.17.40:055][828]LogShaderCompilers: Display: Shaders left to compile 791
+[2018.06.12-15.17.40:055][828]LogShaderCompilers: Display: Shaders left to compile 781
+[2018.06.12-15.17.42:319][895]LogShaderCompilers: Display: Shaders left to compile 771
+[2018.06.12-15.17.42:646][896]LogShaderCompilers: Display: Shaders left to compile 761
+[2018.06.12-15.17.45:211][897]LogShaderCompilers: Display: Shaders left to compile 751
+[2018.06.12-15.17.47:029][897]LogShaderCompilers: Display: Shaders left to compile 741
+[2018.06.12-15.17.48:031][898]LogShaderCompilers: Display: Shaders left to compile 731
+[2018.06.12-15.17.50:139][900]LogShaderCompilers: Display: Shaders left to compile 721
+[2018.06.12-15.17.51:891][903]LogShaderCompilers: Display: Shaders left to compile 711
+[2018.06.12-15.17.52:090][905]LogShaderCompilers: Display: Shaders left to compile 701
+[2018.06.12-15.17.54:404][906]LogShaderCompilers: Display: Shaders left to compile 691
+[2018.06.12-15.17.55:668][909]LogShaderCompilers: Display: Shaders left to compile 681
+[2018.06.12-15.17.56:187][910]LogShaderCompilers: Display: Shaders left to compile 671
+[2018.06.12-15.17.58:654][912]LogShaderCompilers: Display: Shaders left to compile 661
+[2018.06.12-15.17.59:543][914]LogShaderCompilers: Display: Shaders left to compile 651
+[2018.06.12-15.18.00:744][916]LogShaderCompilers: Display: Shaders left to compile 641
+[2018.06.12-15.18.02:108][918]LogShaderCompilers: Display: Shaders left to compile 631
+[2018.06.12-15.18.02:108][918]LogShaderCompilers: Display: Shaders left to compile 621
+[2018.06.12-15.18.03:622][919]LogShaderCompilers: Display: Shaders left to compile 611
+[2018.06.12-15.18.04:886][920]LogShaderCompilers: Display: Shaders left to compile 601
+[2018.06.12-15.18.06:290][920]LogShaderCompilers: Display: Shaders left to compile 591
+[2018.06.12-15.18.07:975][921]LogShaderCompilers: Display: Shaders left to compile 581
+[2018.06.12-15.18.08:522][923]LogShaderCompilers: Display: Shaders left to compile 571
+[2018.06.12-15.18.09:417][926]LogShaderCompilers: Display: Shaders left to compile 561
+[2018.06.12-15.18.11:129][929]LogShaderCompilers: Display: Shaders left to compile 551
+[2018.06.12-15.18.12:008][932]LogShaderCompilers: Display: Shaders left to compile 541
+[2018.06.12-15.18.12:812][933]LogShaderCompilers: Display: Shaders left to compile 531
+[2018.06.12-15.18.16:335][937]LogShaderCompilers: Display: Shaders left to compile 521
+[2018.06.12-15.18.16:335][937]LogShaderCompilers: Display: Shaders left to compile 511
+[2018.06.12-15.18.17:404][938]LogShaderCompilers: Display: Shaders left to compile 501
+[2018.06.12-15.18.18:688][940]LogShaderCompilers: Display: Shaders left to compile 491
+[2018.06.12-15.18.19:053][941]LogShaderCompilers: Display: Shaders left to compile 481
+[2018.06.12-15.18.20:934][944]LogShaderCompilers: Display: Shaders left to compile 471
+[2018.06.12-15.18.21:937][946]LogShaderCompilers: Display: Shaders left to compile 461
+[2018.06.12-15.18.23:148][947]LogShaderCompilers: Display: Shaders left to compile 451
+[2018.06.12-15.18.25:448][949]LogShaderCompilers: Display: Shaders left to compile 441
+[2018.06.12-15.18.25:448][949]LogShaderCompilers: Display: Shaders left to compile 431
+[2018.06.12-15.18.26:431][950]LogShaderCompilers: Display: Shaders left to compile 421
+[2018.06.12-15.18.28:106][953]LogShaderCompilers: Display: Shaders left to compile 411
+[2018.06.12-15.18.30:736][955]LogShaderCompilers: Display: Shaders left to compile 401
+[2018.06.12-15.18.30:987][957]LogShaderCompilers: Display: Shaders left to compile 391
+[2018.06.12-15.18.33:231][960]LogShaderCompilers: Display: Shaders left to compile 381
+[2018.06.12-15.18.34:352][963]LogShaderCompilers: Display: Shaders left to compile 371
+[2018.06.12-15.18.36:513][967]LogShaderCompilers: Display: Shaders left to compile 361
+[2018.06.12-15.18.38:516][969]LogShaderCompilers: Display: Shaders left to compile 351
+[2018.06.12-15.18.38:768][971]LogShaderCompilers: Display: Shaders left to compile 341
+[2018.06.12-15.18.41:250][973]LogShaderCompilers: Display: Shaders left to compile 331
+[2018.06.12-15.18.42:436][977]LogShaderCompilers: Display: Shaders left to compile 321
+[2018.06.12-15.18.43:944][983]LogShaderCompilers: Display: Shaders left to compile 311
+[2018.06.12-15.18.46:734][985]LogShaderCompilers: Display: Shaders left to compile 301
+[2018.06.12-15.18.47:229][987]LogShaderCompilers: Display: Shaders left to compile 291
+[2018.06.12-15.18.52:317][989]LogShaderCompilers: Display: Shaders left to compile 281
+[2018.06.12-15.18.52:342][990]LogShaderCompilers: Display: Shaders left to compile 271
+[2018.06.12-15.18.52:753][991]LogShaderCompilers: Display: Shaders left to compile 261
+[2018.06.12-15.18.56:763][992]LogShaderCompilers: Display: Shaders left to compile 251
+[2018.06.12-15.18.56:763][992]LogShaderCompilers: Display: Shaders left to compile 241
+[2018.06.12-15.18.56:841][993]LogShaderCompilers: Display: Shaders left to compile 231
+[2018.06.12-15.18.57:478][994]LogShaderCompilers: Display: Shaders left to compile 221
+[2018.06.12-15.19.00:124][996]LogShaderCompilers: Display: Shaders left to compile 211
+[2018.06.12-15.19.00:775][998]LogShaderCompilers: Display: Shaders left to compile 201
+[2018.06.12-15.19.03:689][999]LogShaderCompilers: Display: Shaders left to compile 191
+[2018.06.12-15.19.03:706][  0]LogShaderCompilers: Display: Shaders left to compile 181
+[2018.06.12-15.19.04:150][  1]LogShaderCompilers: Display: Shaders left to compile 171
+[2018.06.12-15.19.04:150][  1]LogShaderCompilers: Display: Shaders left to compile 161
+[2018.06.12-15.19.16:637][  3]LogShaderCompilers: Display: Shaders left to compile 151
+[2018.06.12-15.19.25:742][  9]LogShaderCompilers: Display: Shaders left to compile 141
+[2018.06.12-15.19.34:816][ 11]LogShaderCompilers: Display: Shaders left to compile 131
+[2018.06.12-15.19.46:316][ 13]LogShaderCompilers: Display: Shaders left to compile 121
+[2018.06.12-15.19.48:115][ 16]LogShaderCompilers: Display: Shaders left to compile 111
+[2018.06.12-15.19.55:219][ 19]LogShaderCompilers: Display: Shaders left to compile 101
+[2018.06.12-15.19.58:125][ 22]LogShaderCompilers: Display: Shaders left to compile 91
+[2018.06.12-15.20.01:755][ 24]LogShaderCompilers: Display: Shaders left to compile 81
+[2018.06.12-15.20.04:730][ 26]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.06.12-15.20.07:320][ 28]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.06.12-15.20.08:519][ 30]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.06.12-15.20.10:243][ 34]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.06.12-15.20.12:597][ 36]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.06.12-15.20.13:286][ 38]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.06.12-15.20.16:201][ 41]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.12-15.20.16:201][ 41]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.12-15.20.28:296][830]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029cadb08f40, Size=72
+[2018.06.12-15.20.28:303][830]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.032
+[2018.06.12-15.20.28:305][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_SMG_01_Skeleton] ([1] browsable assets)...
+[2018.06.12-15.20.28:305][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/PolygonScifi/Meshes/Weapons/SK_Wep_SMG_01_Skeleton]
+[2018.06.12-15.20.28:336][830]LogSavePackage: Save=7.96ms
+[2018.06.12-15.20.28:336][830]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_SMG_01_Skeleton_Auto561B85331446E9EC181BC9D83AF2BB97D.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_SMG_01_Skeleton_Auto5.uasset'
+[2018.06.12-15.20.28:338][830]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/PolygonScifi/Meshes/Weapons/SK_Wep_SMG_01_Skeleton_Auto5.uasset
+[2018.06.12-15.20.28:338][830]LogFileHelpers: Auto-saving content packages took 0.034
+[2018.06.12-15.25.33:673][164]LogSkeletalMesh: Skeletal Mesh found in DDC [21.109634ms] /Game/PolygonWar/Meshes/Weapons_Rigged/SK_Wep_American_Scope_Long_01.SK_Wep_American_Scope_Long_01
+[2018.06.12-15.25.33:725][164]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.Actor_24.DebugSkelMeshComponent_25) Already registered. Aborting.
+[2018.06.12-15.25.33:783][164]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_38:PersistentLevel.Actor_24.DebugSkelMeshComponent_25) - call TermArticulated first.
+[2018.06.12-15.25.36:541][218]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.Actor_25.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.06.12-15.25.36:578][218]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_39:PersistentLevel.Actor_25.DebugSkelMeshComponent_26) - call TermArticulated first.
+[2018.06.12-15.25.46:110][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-15.25.49:211][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-15.25.56:192][587]Cmd: TRANSACTION UNDO
+[2018.06.12-15.25.56:192][587]LogEditorTransaction: Undo Translate Bone
+[2018.06.12-15.25.56:193][587]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.Actor_24.DebugSkelMeshComponent_25) Already registered. Aborting.
+[2018.06.12-15.25.56:591][587]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.Actor_25.DebugSkelMeshComponent_26) Already registered. Aborting.
+[2018.06.12-15.25.58:111][616]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-15.25.58:250][619]LogSlate: Window 'SK_Wep_American_Scope_Long_01_Skeleton' being destroyed
+[2018.06.12-15.25.58:296][619]LogSlate: Window 'SK_Wep_American_Scope_Long_01_Skeleton' being destroyed
+[2018.06.12-15.26.08:550][779]LogSkeletalMesh: Building Skeletal Mesh SK_Wep_British_Rifle_01...
+[2018.06.12-15.26.08:553][779]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/PolygonWar/Meshes/Weapons_Rigged/SK_Wep_British_Rifle_01.SK_Wep_British_Rifle_01
+[2018.06.12-15.26.08:620][779]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.Actor_26.DebugSkelMeshComponent_27) Already registered. Aborting.
+[2018.06.12-15.26.08:679][779]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_40:PersistentLevel.Actor_26.DebugSkelMeshComponent_27) - call TermArticulated first.
+[2018.06.12-15.26.12:033][823]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.Actor_27.DebugSkelMeshComponent_28) Already registered. Aborting.
+[2018.06.12-15.26.12:075][823]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_41:PersistentLevel.Actor_27.DebugSkelMeshComponent_28) - call TermArticulated first.
+[2018.06.12-15.26.28:159][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-15.27.36:454][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-15.28.10:970][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-15.28.23:753][776]LogStaticMesh: Building static mesh SM_Wep_American_Scope_Short_01...
+[2018.06.12-15.28.23:777][776]LogStaticMesh: Built static mesh [0.02s] /Game/PolygonWar/Meshes/Weapons_Static/SM_Wep_American_Scope_Short_01.SM_Wep_American_Scope_Short_01
+[2018.06.12-15.28.27:317][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-15.28.35:108][130]LogSlate: Window 'SK_Wep_British_Rifle_01_Skeleton*' being destroyed
+[2018.06.12-15.28.35:130][130]LogSlate: Window 'SK_Wep_British_Rifle_01_Skeleton*' being destroyed
+[2018.06.12-15.29.16:971][959]LogSkeletalMesh: Skeletal Mesh found in DDC [17.486095ms] /Game/PolygonWar/Meshes/Weapons_Rigged/SK_Wep_American_Rifle_01.SK_Wep_American_Rifle_01
+[2018.06.12-15.29.17:026][959]LogSkeletalMesh: Skeletal Mesh found in DDC [11.989347ms] /Game/PolygonWar/Meshes/Weapons_Rigged/SK_Wep_American_Scope_Short_01.SK_Wep_American_Scope_Short_01
+[2018.06.12-15.29.17:030][959]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_42:PersistentLevel.Actor_28.DebugSkelMeshComponent_29) Already registered. Aborting.
+[2018.06.12-15.29.17:072][959]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_42:PersistentLevel.Actor_28.DebugSkelMeshComponent_29) - call TermArticulated first.
+[2018.06.12-15.29.19:530][ 28]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.Actor_29.DebugSkelMeshComponent_30) Already registered. Aborting.
+[2018.06.12-15.29.19:567][ 28]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_43:PersistentLevel.Actor_29.DebugSkelMeshComponent_30) - call TermArticulated first.
+[2018.06.12-15.29.28:335][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-15.29.40:726][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.12-15.29.55:384][225]LogSlate: Window 'Save Content' being destroyed
+[2018.06.12-15.29.55:450][225]LogSavePackage: Save=11.26ms
+[2018.06.12-15.29.55:450][225]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Pistol_016581F1D444F619A0C0716683DBD271E3.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Pistol_01.uasset'
+[2018.06.12-15.29.55:461][225]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Pistol_01.uasset
+[2018.06.12-15.29.55:498][225]LogSavePackage: Save=13.06ms
+[2018.06.12-15.29.55:498][225]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Revolver_01509F143A4F42B66295AD75BB383EC9F7.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Revolver_01.uasset'
+[2018.06.12-15.29.55:508][225]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Revolver_01.uasset
+[2018.06.12-15.29.55:548][225]LogSavePackage: Save=12.40ms
+[2018.06.12-15.29.55:548][225]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Rifle_Base_0118AB835342FE936682EB21A99FA90B19.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Base_01.uasset'
+[2018.06.12-15.29.55:557][225]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Base_01.uasset
+[2018.06.12-15.29.55:587][225]LogSavePackage: Save=7.87ms
+[2018.06.12-15.29.55:587][225]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Rifle_Base_01_SkeletonF28AA9BA4E856C685E3146919E66F682.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Base_01_Skeleton.uasset'
+[2018.06.12-15.29.55:596][225]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Base_01_Skeleton.uasset
+[2018.06.12-15.29.55:634][225]LogSavePackage: Save=13.00ms
+[2018.06.12-15.29.55:634][225]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Rifle_Laser_017EC1695B4C714EF7F222F6B0FA27F6BC.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Laser_01.uasset'
+[2018.06.12-15.29.55:644][225]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Laser_01.uasset
+[2018.06.12-15.29.55:673][225]LogSavePackage: Save=6.42ms
+[2018.06.12-15.29.55:673][225]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Rifle_Laser_01_Skeleton693D004A4C859BFC7988D79D8C56E690.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Laser_01_Skeleton.uasset'
+[2018.06.12-15.29.55:684][225]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Laser_01_Skeleton.uasset
+[2018.06.12-15.29.55:721][225]LogSavePackage: Save=11.44ms
+[2018.06.12-15.29.55:721][225]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Rifle_Plasma_0168CE12EE42E4E5F13DAC5E9336038936.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_01.uasset'
+[2018.06.12-15.29.55:732][225]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_01.uasset
+[2018.06.12-15.29.55:762][225]LogSavePackage: Save=7.41ms
+[2018.06.12-15.29.55:762][225]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Rifle_Plasma_01_SkeletonB75FAC524BE84E3A31A25B9A5CC68420.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_01_Skeleton.uasset'
+[2018.06.12-15.29.55:771][225]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_01_Skeleton.uasset
+[2018.06.12-15.29.55:808][225]LogSavePackage: Save=10.92ms
+[2018.06.12-15.29.55:808][225]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Rifle_Plasma_026C6A042F4B1DAA9D1AF40FA1D0429790.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_02.uasset'
+[2018.06.12-15.29.55:819][225]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_02.uasset
+[2018.06.12-15.29.55:848][225]LogSavePackage: Save=7.18ms
+[2018.06.12-15.29.55:848][225]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Rifle_Plasma_02_Skeleton0F8FFD0B4B466601874370A13DDC90BE.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_02_Skeleton.uasset'
+[2018.06.12-15.29.55:857][225]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_02_Skeleton.uasset
+[2018.06.12-15.29.55:897][225]LogSavePackage: Save=12.80ms
+[2018.06.12-15.29.55:897][225]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Rifle_Plasma_03D59F810C46DB9F33E4711EB047DF6EF1.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_03.uasset'
+[2018.06.12-15.29.55:906][225]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_03.uasset
+[2018.06.12-15.29.55:936][225]LogSavePackage: Save=8.48ms
+[2018.06.12-15.29.55:936][225]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Rifle_Plasma_03_SkeletonF0C58CF9456853A06A9BD59F7E8AB2ED.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_03_Skeleton.uasset'
+[2018.06.12-15.29.55:946][225]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Rifle_Plasma_03_Skeleton.uasset
+[2018.06.12-15.29.55:985][225]LogSavePackage: Save=11.53ms
+[2018.06.12-15.29.55:985][225]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Shotgun_Plasma_01001AA86A4FE0C502F35F6F8106190F72.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Shotgun_Plasma_01.uasset'
+[2018.06.12-15.29.55:996][225]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Shotgun_Plasma_01.uasset
+[2018.06.12-15.29.56:024][225]LogSavePackage: Save=7.88ms
+[2018.06.12-15.29.56:024][225]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Shotgun_Plasma_01_Skeleto565921AB4832F0D167E028A285FFDFF8.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Shotgun_Plasma_01_Skeleton.uasset'
+[2018.06.12-15.29.56:034][225]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Shotgun_Plasma_01_Skeleton.uasset
+[2018.06.12-15.29.56:064][225]LogSavePackage: Save=7.79ms
+[2018.06.12-15.29.56:064][225]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_SMG_01_Skeleton4366F24143A52EBC5B7A29A48BA6DF93.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_SMG_01_Skeleton.uasset'
+[2018.06.12-15.29.56:073][225]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_SMG_01_Skeleton.uasset
+[2018.06.12-15.29.56:117][225]LogSavePackage: Save=12.44ms
+[2018.06.12-15.29.56:117][225]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Sniper_0160B952734F5503CB0004CA8DA1B3B611.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_01.uasset'
+[2018.06.12-15.29.56:127][225]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_01.uasset
+[2018.06.12-15.29.56:158][225]LogSavePackage: Save=7.31ms
+[2018.06.12-15.29.56:158][225]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Sniper_01_SkeletonEBCA1F264F0AA5DE8D3C56AF8E363DCF.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_01_Skeleton.uasset'
+[2018.06.12-15.29.56:167][225]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_01_Skeleton.uasset
+[2018.06.12-15.29.56:205][225]LogSavePackage: Save=11.38ms
+[2018.06.12-15.29.56:205][225]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Sniper_Plasma_02939F1A3648674B8B220055A15EA89F1D.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_Plasma_02.uasset'
+[2018.06.12-15.29.56:213][225]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_Plasma_02.uasset
+[2018.06.12-15.29.56:246][225]LogSavePackage: Save=8.02ms
+[2018.06.12-15.29.56:246][225]LogSavePackage: Moving '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Saved/SK_Wep_Sniper_Plasma_02_Skeleton9A0E365F46C1D701B1B62A8E3D2049A6.tmp' to '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_Plasma_02_Skeleton.uasset'
+[2018.06.12-15.29.56:253][225]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/PolygonScifi/Meshes/Weapons/SK_Wep_Sniper_Plasma_02_Skeleton.uasset
+[2018.06.12-15.29.56:417][225]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2018.06.12-15.29.56:719][226]Cmd: QUIT_EDITOR
+[2018.06.12-15.29.56:836][226]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.12-15.29.56:858][226]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.06.12-15.29.56:859][226]LogExit: Preparing to exit.
+[2018.06.12-15.29.57:940][226]LogDirectoryWatcher: A directory notification failed for 'C:/Users/nouveau/Documents/Unreal Projects/MyProject/Content/', and we were unable to create a new request.
+[2018.06.12-15.29.58:097][226]LogExit: Editor shut down
+[2018.06.12-15.29.58:133][226]LogExit: Transaction tracking system shut down
+[2018.06.12-15.29.58:135][226]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029c584e1120, Size=72
+[2018.06.12-15.29.58:139][226]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029c584882c0, Size=296
+[2018.06.12-15.29.58:169][226]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029c1207f330, Size=72
+[2018.06.12-15.29.58:171][226]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029c6d96a068, Size=4
+[2018.06.12-15.29.58:171][226]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000029c6d96a060, Size=4
+[2018.06.12-15.29.58:500][226]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.06.12-15.29.58:500][226]LogDirectoryWatcher: A directory notification for '../../../../../../Users/nouveau/Documents/Unreal Projects/MyProject/Content/' was aborted.
+[2018.06.12-15.29.58:500][226]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.06.12-15.29.58:500][226]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.06.12-15.29.58:500][226]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.06.12-15.29.58:500][226]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.06.12-15.29.58:500][226]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.06.12-15.29.58:500][226]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.06.12-15.29.59:140][226]LogExit: Object subsystem successfully closed.
+[2018.06.12-15.29.59:294][226]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.06.12-15.29.59:304][226]LogD3D11RHI: Shutdown
+[2018.06.12-15.29.59:304][226]LogD3D11RHI: CleanupD3DDevice
+[2018.06.12-15.29.59:325][226]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.06.12-15.29.59:720][226]LogModuleManager: Shutting down and abandoning module BlueprintGraph (590)
+[2018.06.12-15.29.59:720][226]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (588)
+[2018.06.12-15.29.59:720][226]LogModuleManager: Shutting down and abandoning module DistCurveEditor (586)
+[2018.06.12-15.29.59:721][226]LogModuleManager: Shutting down and abandoning module Cascade (584)
+[2018.06.12-15.29.59:721][226]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (582)
+[2018.06.12-15.29.59:721][226]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (580)
+[2018.06.12-15.29.59:721][226]LogModuleManager: Shutting down and abandoning module PinnedCommandList (578)
+[2018.06.12-15.29.59:721][226]LogModuleManager: Shutting down and abandoning module SkeletonEditor (576)
+[2018.06.12-15.29.59:721][226]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2018.06.12-15.29.59:721][226]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2018.06.12-15.29.59:732][226]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2018.06.12-15.29.59:733][226]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.06.12-15.29.59:749][226]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2018.06.12-15.29.59:750][226]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2018.06.12-15.29.59:750][226]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2018.06.12-15.29.59:757][226]LogDirectoryWatcher: A directory notification for 'C:/Users/nouveau/Documents/Unreal Projects/MyProject/Content/Collections/' was aborted.
+[2018.06.12-15.29.59:757][226]LogDirectoryWatcher: A directory notification for 'C:/Users/nouveau/Documents/Unreal Projects/MyProject/Content/Developers/nouveau/Collections/' was aborted.
+[2018.06.12-15.29.59:758][226]LogDirectoryWatcher: A directory notification for 'C:/Users/nouveau/Documents/Unreal Projects/MyProject/Saved/Collections/' was aborted.
+[2018.06.12-15.29.59:758][226]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.06.12-15.29.59:758][226]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.06.12-15.29.59:758][226]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.06.12-15.29.59:766][226]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.06.12-15.29.59:766][226]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.06.12-15.29.59:766][226]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.06.12-15.29.59:766][226]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.06.12-15.29.59:767][226]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.06.12-15.29.59:767][226]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.06.12-15.29.59:767][226]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.06.12-15.29.59:767][226]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.06.12-15.29.59:767][226]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.06.12-15.29.59:767][226]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.06.12-15.29.59:767][226]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.06.12-15.29.59:767][226]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.06.12-15.29.59:767][226]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.06.12-15.29.59:767][226]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.06.12-15.29.59:777][226]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.06.12-15.29.59:777][226]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.06.12-15.29.59:794][226]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.06.12-15.29.59:794][226]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.06.12-15.29.59:794][226]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.06.12-15.29.59:794][226]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.06.12-15.29.59:794][226]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.06.12-15.29.59:794][226]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.06.12-15.29.59:794][226]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.06.12-15.29.59:794][226]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.06.12-15.29.59:794][226]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.06.12-15.29.59:795][226]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.06.12-15.29.59:795][226]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.06.12-15.29.59:795][226]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.06.12-15.29.59:795][226]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.06.12-15.29.59:795][226]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.06.12-15.29.59:795][226]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.06.12-15.29.59:795][226]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.06.12-15.29.59:807][226]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.06.12-15.29.59:807][226]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.06.12-15.29.59:808][226]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.06.12-15.29.59:821][226]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.06.12-15.29.59:831][226]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.06.12-15.29.59:831][226]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.06.12-15.29.59:831][226]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.06.12-15.29.59:832][226]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.06.12-15.30.00:576][226]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.06.12-15.30.00:576][226]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.06.12-15.30.00:576][226]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.06.12-15.30.00:576][226]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.06.12-15.30.00:576][226]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.06.12-15.30.00:595][226]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.06.12-15.30.00:615][226]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.06.12-15.30.00:616][226]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.06.12-15.30.00:616][226]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.06.12-15.30.00:616][226]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.06.12-15.30.00:616][226]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.06.12-15.30.00:616][226]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.06.12-15.30.00:616][226]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.06.12-15.30.00:616][226]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.06.12-15.30.00:616][226]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.06.12-15.30.00:617][226]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.06.12-15.30.00:637][226]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.06.12-15.30.00:658][226]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.06.12-15.30.00:659][226]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.06.12-15.30.00:675][226]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.06.12-15.30.00:675][226]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.06.12-15.30.00:747][226]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.06.12-15.30.00:747][226]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.06.12-15.30.00:765][226]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.06.12-15.30.00:783][226]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.06.12-15.30.00:783][226]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.06.12-15.30.00:801][226]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.06.12-15.30.00:801][226]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.06.12-15.30.00:801][226]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.06.12-15.30.00:801][226]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.06.12-15.30.00:801][226]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.06.12-15.30.00:818][226]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.06.12-15.30.00:818][226]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.06.12-15.30.00:818][226]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.06.12-15.30.00:818][226]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.06.12-15.30.00:823][226]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.06.12-15.30.00:824][226]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.06.12-15.30.00:832][226]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.06.12-15.30.00:833][226]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.06.12-15.30.00:833][226]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.06.12-15.30.00:833][226]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.06.12-15.30.00:843][226]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.06.12-15.30.00:843][226]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.06.12-15.30.00:843][226]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.06.12-15.30.00:843][226]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.06.12-15.30.00:843][226]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.06.12-15.30.00:843][226]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.06.12-15.30.00:843][226]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.06.12-15.30.00:843][226]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.06.12-15.30.00:843][226]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.06.12-15.30.00:843][226]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.06.12-15.30.00:843][226]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.06.12-15.30.00:916][226]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.06.12-15.30.00:916][226]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.06.12-15.30.00:916][226]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.06.12-15.30.00:916][226]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.06.12-15.30.00:916][226]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.06.12-15.30.00:916][226]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.06.12-15.30.00:916][226]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.06.12-15.30.00:916][226]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.06.12-15.30.00:916][226]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.06.12-15.30.00:916][226]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.06.12-15.30.00:916][226]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.06.12-15.30.00:916][226]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.06.12-15.30.00:916][226]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.06.12-15.30.00:916][226]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.06.12-15.30.00:916][226]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.06.12-15.30.00:916][226]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.06.12-15.30.00:916][226]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.06.12-15.30.00:922][226]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.06.12-15.30.00:922][226]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.06.12-15.30.00:922][226]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.06.12-15.30.00:923][226]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.06.12-15.30.00:923][226]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.06.12-15.30.00:923][226]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.06.12-15.30.00:923][226]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.06.12-15.30.00:923][226]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.06.12-15.30.00:923][226]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.06.12-15.30.00:923][226]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.06.12-15.30.00:923][226]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.06.12-15.30.00:923][226]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.06.12-15.30.00:923][226]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.06.12-15.30.00:923][226]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.06.12-15.30.00:923][226]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.06.12-15.30.00:923][226]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.06.12-15.30.00:923][226]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.06.12-15.30.00:923][226]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.06.12-15.30.00:923][226]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.06.12-15.30.00:924][226]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.06.12-15.30.00:924][226]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.06.12-15.30.00:924][226]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.06.12-15.30.00:924][226]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.06.12-15.30.00:924][226]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.06.12-15.30.00:924][226]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.06.12-15.30.00:924][226]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.06.12-15.30.00:924][226]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.06.12-15.30.00:924][226]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.06.12-15.30.00:924][226]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.06.12-15.30.00:924][226]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.06.12-15.30.00:924][226]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.06.12-15.30.00:924][226]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.06.12-15.30.00:924][226]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.06.12-15.30.01:025][226]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.06.12-15.30.01:126][226]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.06.12-15.30.01:126][226]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.06.12-15.30.01:126][226]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.06.12-15.30.01:126][226]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.06.12-15.30.01:126][226]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.06.12-15.30.01:126][226]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.06.12-15.30.01:127][226]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.06.12-15.30.01:128][226]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.06.12-15.30.01:128][226]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.06.12-15.30.01:128][226]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.06.12-15.30.01:129][226]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.06.12-15.30.01:131][226]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.06.12-15.30.01:131][226]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.06.12-15.30.01:131][226]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.06.12-15.30.01:131][226]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.06.12-15.30.01:458][226]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.06.12-15.30.01:459][226]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.06.12-15.30.01:459][226]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.06.12-15.30.01:460][226]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.06.12-15.30.01:466][226]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.06.12-15.30.01:466][226]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.06.12-15.30.01:466][226]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.06.12-15.30.01:478][226]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.06.12-15.30.01:478][226]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.06.12-15.30.01:478][226]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.06.12-15.30.01:478][226]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.06.12-15.30.01:484][226]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.06.12-15.30.01:484][226]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.06.12-15.30.01:484][226]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.06.12-15.30.01:497][226]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.06.12-15.30.01:497][226]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.06.12-15.30.01:497][226]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.06.12-15.30.01:497][226]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.06.12-15.30.01:501][226]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.06.12-15.30.01:520][226]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.06.12-15.30.01:528][226]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.06.12-15.30.01:528][226]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.06.12-15.30.01:546][226]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.06.12-15.30.01:546][226]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.06.12-15.30.01:549][226]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.06.12-15.30.01:550][226]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.06.12-15.30.01:550][226]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.06.12-15.30.01:550][226]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.06.12-15.30.01:550][226]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.06.12-15.30.01:550][226]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.06.12-15.30.01:550][226]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.06.12-15.30.01:550][226]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.06.12-15.30.01:550][226]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.06.12-15.30.01:558][226]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.06.12-15.30.01:559][226]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.06.12-15.30.01:559][226]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.06.12-15.30.01:559][226]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.06.12-15.30.01:559][226]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.06.12-15.30.01:559][226]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.06.12-15.30.01:559][226]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.06.12-15.30.01:568][226]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.06.12-15.30.01:619][226]LogDerivedDataCache: Shutdown
+[2018.06.12-15.30.01:619][226]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.06.12-15.30.01:619][226]LogXGEController: Cleaning working directory: C:/Users/nouveau/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.06.12-15.30.01:619][226]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.06.12-15.30.01:619][226]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.06.12-15.30.01:619][226]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.06.12-15.30.01:632][226]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.06.12-15.30.01:640][226]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.06.12-15.30.01:640][226]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.06.12-15.30.01:640][226]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.06.12-15.30.01:641][226]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.06.12-15.30.01:641][226]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.06.12-15.30.01:641][226]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.06.12-15.30.01:641][226]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.06.12-15.30.01:641][226]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.06.12-15.30.01:641][226]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.06.12-15.30.01:641][226]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.06.12-15.30.01:641][226]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.06.12-15.30.01:641][226]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.06.12-15.30.01:641][226]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.06.12-15.30.01:641][226]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.06.12-15.30.01:641][226]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.06.12-15.30.01:641][226]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.06.12-15.30.01:642][226]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.06.12-15.30.01:642][226]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.06.12-15.30.01:642][226]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.06.12-15.30.01:642][226]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.06.12-15.30.01:642][226]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.06.12-15.30.01:642][226]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.06.12-15.30.01:642][226]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.06.12-15.30.01:642][226]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.06.12-15.30.01:642][226]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.06.12-15.30.01:642][226]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.06.12-15.30.01:642][226]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.06.12-15.30.01:642][226]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.06.12-15.30.01:642][226]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.06.12-15.30.01:642][226]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.06.12-15.30.01:642][226]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.06.12-15.30.01:642][226]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.06.12-15.30.01:642][226]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.06.12-15.30.01:642][226]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.06.12-15.30.01:642][226]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.06.12-15.30.01:642][226]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.06.12-15.30.01:642][226]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.06.12-15.30.01:642][226]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.06.12-15.30.01:643][226]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.06.12-15.30.01:643][226]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.06.12-15.30.01:643][226]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.06.12-15.30.01:643][226]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.06.12-15.30.01:643][226]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.06.12-15.30.01:643][226]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.06.12-15.30.01:643][226]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.06.12-15.30.01:643][226]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.06.12-15.30.01:643][226]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.06.12-15.30.01:643][226]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.06.12-15.30.01:643][226]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.06.12-15.30.01:658][226]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.06.12-15.30.01:669][226]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.06.12-15.30.01:669][226]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2421E661-4C0D-01A1-5E66-CF9FF32F5411%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=884dade5425227070ac7a389368d2053%7C56651db2f40547009176af84a52fdb67%7Ce01c3379-42eb-42ec-81b3-bedbc64740ea&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.06.12-15.30.01:702][226]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.06.12-15.30.01:704][226]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.06.12-15.30.01:711][226]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.06.12-15.30.01:721][226]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.06.12-15.30.01:731][226]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.06.12-15.30.01:731][226]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.06.12-15.30.01:732][226]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.06.12-15.30.01:732][226]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.06.12-15.30.01:756][226]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.06.12-15.30.01:761][226]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.06.12-15.30.01:761][226]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.06.12-15.30.01:761][226]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.06.12-15.30.01:761][226]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.06.12-15.30.01:761][226]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.06.12-15.30.01:761][226]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.06.12-15.30.01:761][226]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.06.12-15.30.01:761][226]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.06.12-15.30.01:761][226]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.06.12-15.30.01:761][226]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.06.12-15.30.01:776][226]LogExit: Exiting.
+[2018.06.12-15.30.01:813][226]Log file closed, 06/12/18 17:30:01
